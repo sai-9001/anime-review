@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:48:27.480Z",
- "count": 213,
+ "generatedAt": "2026-11-08T12:50:19.032Z",
+ "count": 214,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1706,6 +1706,14 @@
    "review": "",
    "year": 2014,
    "order": 213
+  },
+  {
+   "title": "戦闘員、派遣します！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116588-noyscGIN8FIr.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2021,
+   "order": 214
   }
  ]
 }
