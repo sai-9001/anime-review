@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T22:31:59.091Z",
- "count": 240,
+ "generatedAt": "2026-11-08T22:34:56.164Z",
+ "count": 241,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1922,6 +1922,14 @@
    "review": "",
    "year": 2022,
    "order": 240
+  },
+  {
+   "title": "キミとアイドルプリキュア♪",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-m4QzzXcEqmvb.png",
+   "rating": 4,
+   "review": "",
+   "year": 2025,
+   "order": 241
   }
  ]
 }
