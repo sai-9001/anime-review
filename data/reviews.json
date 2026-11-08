@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:32:08.441Z",
- "count": 272,
+ "generatedAt": "2026-11-08T23:32:57.989Z",
+ "count": 273,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2178,6 +2178,14 @@
    "review": "",
    "year": 2021,
    "order": 272
+  },
+  {
+   "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146234-vSYvPfLwjYXX.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2023,
+   "order": 273
   }
  ]
 }
