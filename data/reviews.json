@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T10:50:08.973Z",
+ "generatedAt": "2026-11-08T11:03:07.560Z",
  "count": 149,
  "items": [
   {
@@ -8,6 +8,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 1
   },
   {
@@ -15,6 +16,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
    "rating": 4,
    "review": "",
+   "year": 2026,
    "order": 2
   },
   {
@@ -22,6 +24,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-cchriAdH95cQ.png",
    "rating": 5,
    "review": "",
+   "year": 2019,
    "order": 3
   },
   {
@@ -29,6 +32,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115113-bJDZV7kP0XrP.png",
    "rating": 4,
    "review": "",
+   "year": 2020,
    "order": 4
   },
   {
@@ -36,6 +40,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180523-FjvW1XByUNMK.jpg",
    "rating": 3,
    "review": "",
+   "year": 2025,
    "order": 5
   },
   {
@@ -43,6 +48,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
    "rating": 5,
    "review": "",
+   "year": 2026,
    "order": 6
   },
   {
@@ -50,6 +56,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166699-k5hIccoA5XSW.jpg",
    "rating": 5,
    "review": "",
+   "year": 2025,
    "order": 7
   },
   {
@@ -57,6 +64,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 8
   },
   {
@@ -64,6 +72,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg",
    "rating": 5,
    "review": "",
+   "year": 2025,
    "order": 9
   },
   {
@@ -71,6 +80,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184356-SlFIstXUXJYP.png",
    "rating": 5,
    "review": "",
+   "year": 0,
    "order": 10
   },
   {
@@ -78,6 +88,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153360-VM22UwGEz8Ir.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 11
   },
   {
@@ -85,6 +96,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169440-MhlOxaIyASRu.jpg",
    "rating": 4,
    "review": "",
+   "year": 2025,
    "order": 12
   },
   {
@@ -92,6 +104,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
    "rating": 5,
    "review": "",
+   "year": 2026,
    "order": 13
   },
   {
@@ -99,6 +112,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106479-JmPk1F5ubMtm.png",
    "rating": 5,
    "review": "",
+   "year": 2020,
    "order": 14
   },
   {
@@ -106,6 +120,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-Xnwmx7wuoIWV.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 15
   },
   {
@@ -113,6 +128,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-vCMkF4e3x5FB.jpg",
    "rating": 5,
    "review": "",
+   "year": 2024,
    "order": 16
   },
   {
@@ -120,6 +136,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170221-U5dBr37hDop7.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 17
   },
   {
@@ -127,6 +144,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png",
    "rating": 5,
    "review": "",
+   "year": 2026,
    "order": 18
   },
   {
@@ -134,6 +152,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139587-rbZVcigCRtHY.jpg",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 19
   },
   {
@@ -141,6 +160,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101280-tDxCVJm714nt.jpg",
    "rating": 3,
    "review": "",
+   "year": 2018,
    "order": 20
   },
   {
@@ -148,6 +168,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-SxYDUzdr9rh2.jpg",
    "rating": 4,
    "review": "",
+   "year": 2012,
    "order": 21
   },
   {
@@ -155,6 +176,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20594-FhRgZ1H9Istt.jpg",
    "rating": 4,
    "review": "",
+   "year": 2014,
    "order": 22
   },
   {
@@ -162,6 +184,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100183-v4S2sGAG3A24.jpg",
    "rating": 5,
    "review": "",
+   "year": 2018,
    "order": 23
   },
   {
@@ -169,6 +192,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx435-WO3USrR2jB5u.png",
    "rating": 5,
    "review": "",
+   "year": 1994,
    "order": 24
   },
   {
@@ -176,6 +200,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1563-iBCCwEnUoRVm.png",
    "rating": 5,
    "review": "",
+   "year": 1995,
    "order": 25
   },
   {
@@ -183,6 +208,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg",
    "rating": 4,
    "review": "",
+   "year": 2021,
    "order": 26
   },
   {
@@ -190,6 +216,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-Vzysp1EsrzgD.jpg",
    "rating": 5,
    "review": "",
+   "year": 2018,
    "order": 27
   },
   {
@@ -197,6 +224,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104459-pywEKGQON613.jpg",
    "rating": 4,
    "review": "",
+   "year": 2021,
    "order": 28
   },
   {
@@ -204,6 +232,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104460-EwUV9ZJMCtnR.jpg",
    "rating": 3,
    "review": "",
+   "year": 2022,
    "order": 29
   },
   {
@@ -211,6 +240,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158417-Ii0DOFwNim0A.jpg",
    "rating": 5,
    "review": "",
+   "year": 2024,
    "order": 30
   },
   {
@@ -218,6 +248,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178781-pbk5FgfiAJxS.jpg",
    "rating": 5,
    "review": "",
+   "year": 2025,
    "order": 31
   },
   {
@@ -225,6 +256,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12477-KtZm8BuvrPYo.jpg",
    "rating": 4,
    "review": "",
+   "year": 2013,
    "order": 32
   },
   {
@@ -232,6 +264,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178533-b88OLxm50jcH.jpg",
    "rating": 5,
    "review": "",
+   "year": 2024,
    "order": 33
   },
   {
@@ -239,6 +272,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97663-4TMJDIpm3toz.png",
    "rating": 5,
    "review": "",
+   "year": 2017,
    "order": 34
   },
   {
@@ -246,6 +280,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-dE6UHbFFg1A5.jpg",
    "rating": 3,
    "review": "",
+   "year": 2002,
    "order": 35
   },
   {
@@ -253,6 +288,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-kGfVm0YqCPcu.png",
    "rating": 3,
    "review": "",
+   "year": 2007,
    "order": 36
   },
   {
@@ -260,6 +296,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
    "rating": 3,
    "review": "",
+   "year": 1999,
    "order": 37
   },
   {
@@ -267,6 +304,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98491-5vyX89aabiHz.jpg",
    "rating": 2,
    "review": "",
+   "year": 2017,
    "order": 38
   },
   {
@@ -274,6 +312,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87435-yHlVTP1HFiXH.png",
    "rating": 4,
    "review": "",
+   "year": 2017,
    "order": 39
   },
   {
@@ -281,6 +320,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20754-e5JXeLpHoN7w.jpg",
    "rating": 5,
    "review": "",
+   "year": 2015,
    "order": 40
   },
   {
@@ -288,6 +328,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4654-ba44icsxDQZd.jpg",
    "rating": 3,
    "review": "",
+   "year": 2008,
    "order": 41
   },
   {
@@ -295,6 +336,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6213-QtrlDQnexApL.jpg",
    "rating": 5,
    "review": "",
+   "year": 2009,
    "order": 42
   },
   {
@@ -302,6 +344,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx16049-FbOhOsQAuisF.jpg",
    "rating": 5,
    "review": "",
+   "year": 2013,
    "order": 43
   },
   {
@@ -309,6 +352,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104462-KrVWRvPcR7ci.jpg",
    "rating": 5,
    "review": "",
+   "year": 2020,
    "order": 44
   },
   {
@@ -316,6 +360,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg",
    "rating": 4,
    "review": "",
+   "year": 2016,
    "order": 45
   },
   {
@@ -323,6 +368,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10278-FnbOihGuSpfc.jpg",
    "rating": 5,
    "review": "",
+   "year": 2011,
    "order": 46
   },
   {
@@ -330,6 +376,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1694-0fQrbEdvEBYW.png",
    "rating": 4,
    "review": "",
+   "year": 2007,
    "order": 47
   },
   {
@@ -337,6 +384,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113-LVBTWnBDpKb1.jpg",
    "rating": 5,
    "review": "",
+   "year": 2003,
    "order": 48
   },
   {
@@ -344,6 +392,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2291-mfM44JGWN1vV.jpg",
    "rating": 5,
    "review": "",
+   "year": 1985,
    "order": 49
   },
   {
@@ -351,6 +400,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2292.jpg",
    "rating": 4,
    "review": "",
+   "year": 1990,
    "order": 50
   },
   {
@@ -358,6 +408,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx561-ke7B6XcWEI3Y.png",
    "rating": 3,
    "review": "",
+   "year": 2000,
    "order": 51
   },
   {
@@ -365,6 +416,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1103.jpg",
    "rating": 5,
    "review": "",
+   "year": 2003,
    "order": 52
   },
   {
@@ -372,6 +424,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1104.jpg",
    "rating": 5,
    "review": "",
+   "year": 2004,
    "order": 53
   },
   {
@@ -379,6 +432,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2167-pSDBcyc0vjej.jpg",
    "rating": 5,
    "review": "",
+   "year": 2007,
    "order": 54
   },
   {
@@ -386,6 +440,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1723-PzMdQPvfcxxA.png",
    "rating": 3,
    "review": "",
+   "year": 2007,
    "order": 55
   },
   {
@@ -393,6 +448,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png",
    "rating": 5,
    "review": "",
+   "year": 2008,
    "order": 56
   },
   {
@@ -400,6 +456,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6351.jpg",
    "rating": 5,
    "review": "",
+   "year": 2009,
    "order": 57
   },
   {
@@ -407,6 +464,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4059-mrA0Wky7bTgz.jpg",
    "rating": 5,
    "review": "",
+   "year": 2008,
    "order": 58
   },
   {
@@ -414,6 +472,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx13655-ZdAJjba0HrY6.jpg",
    "rating": 5,
    "review": "",
+   "year": 2012,
    "order": 59
   },
   {
@@ -421,6 +480,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101-8ugQ3UjUQ8Ki.png",
    "rating": 5,
    "review": "",
+   "year": 2005,
    "order": 60
   },
   {
@@ -428,6 +488,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx713-NMntmhlt9mV5.jpg",
    "rating": 4,
    "review": "",
+   "year": 2005,
    "order": 61
   },
   {
@@ -435,6 +496,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144-YdWsrDNssRIX.png",
    "rating": 4,
    "review": "",
+   "year": 2002,
    "order": 62
   },
   {
@@ -442,6 +504,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1530-nkzstlVZhZNG.jpg",
    "rating": 5,
    "review": "",
+   "year": 2006,
    "order": 63
   },
   {
@@ -449,6 +512,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1569-mUu6BRRfd1fX.jpg",
    "rating": 5,
    "review": "",
+   "year": 2006,
    "order": 64
   },
   {
@@ -456,6 +520,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5680-r3AI3Cwfv0Aq.png",
    "rating": 5,
    "review": "",
+   "year": 2009,
    "order": 65
   },
   {
@@ -463,6 +528,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7791-4tnomla2mMDp.png",
    "rating": 5,
    "review": "",
+   "year": 2010,
    "order": 66
   },
   {
@@ -470,6 +536,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9617-Z2RA1TIkcNEg.png",
    "rating": 4,
    "review": "",
+   "year": 2011,
    "order": 67
   },
   {
@@ -477,6 +544,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-VT5dRzTBSZ0w.jpg",
    "rating": 5,
    "review": "",
+   "year": 2012,
    "order": 68
   },
   {
@@ -484,6 +552,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3603-SlwsgQeC4fTg.png",
    "rating": 5,
    "review": "",
+   "year": 2007,
    "order": 69
   },
   {
@@ -491,6 +560,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5909-cqlzezmvzLWa.png",
    "rating": 5,
    "review": "",
+   "year": 2009,
    "order": 70
   },
   {
@@ -498,6 +568,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10464-BlUWhUYM8DWz.png",
    "rating": 5,
    "review": "",
+   "year": 2012,
    "order": 71
   },
   {
@@ -505,6 +576,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20984-oLzyyYGcrLDe.png",
    "rating": 4,
    "review": "",
+   "year": 2015,
    "order": 72
   },
   {
@@ -512,6 +584,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg",
    "rating": 5,
    "review": "",
+   "year": 2017,
    "order": 73
   },
   {
@@ -519,6 +592,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100876-RfvmpW1B8bDQ.png",
    "rating": 4,
    "review": "",
+   "year": 2019,
    "order": 74
   },
   {
@@ -526,6 +600,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141351-47JtghppCwMu.png",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 75
   },
   {
@@ -533,6 +608,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109261-65rKxMDlcU9r.png",
    "rating": 5,
    "review": "",
+   "year": 2021,
    "order": 76
   },
   {
@@ -540,6 +616,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131520-89Qfo8JnGHI3.png",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 77
   },
   {
@@ -547,6 +624,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx232-ERyKCNNPJJeh.png",
    "rating": 5,
    "review": "",
+   "year": 1998,
    "order": 78
   },
   {
@@ -554,6 +632,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx371-sdrIzrI5qXl3.jpg",
    "rating": 5,
    "review": "",
+   "year": 1999,
    "order": 79
   },
   {
@@ -561,6 +640,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5079-GGC5BR9xIiE0.jpg",
    "rating": 5,
    "review": "",
+   "year": 2009,
    "order": 80
   },
   {
@@ -568,6 +648,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx260-8Jw78seti49u.jpg",
    "rating": 5,
    "review": "",
+   "year": 2002,
    "order": 81
   },
   {
@@ -575,6 +656,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/261.jpg",
    "rating": 5,
    "review": "",
+   "year": 2003,
    "order": 82
   },
   {
@@ -582,6 +664,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/262.jpg",
    "rating": 5,
    "review": "",
+   "year": 2004,
    "order": 83
   },
   {
@@ -589,6 +672,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/259.jpg",
    "rating": 5,
    "review": "",
+   "year": 2001,
    "order": 84
   },
   {
@@ -596,6 +680,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx836-ZYPEtTbVOJXz.png",
    "rating": 5,
    "review": "",
+   "year": 2001,
    "order": 85
   },
   {
@@ -603,6 +688,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx835-zwS3iHfCpo95.png",
    "rating": 4,
    "review": "",
+   "year": 2002,
    "order": 86
   },
   {
@@ -610,6 +696,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20602-f6CfipBF44kV.png",
    "rating": 5,
    "review": "",
+   "year": 2014,
    "order": 87
   },
   {
@@ -617,6 +704,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21306-nXw2pY43S2ox.png",
    "rating": 5,
    "review": "",
+   "year": 2016,
    "order": 88
   },
   {
@@ -624,6 +712,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16870-BD4K9rzlhCP4.jpg",
    "rating": 5,
    "review": "",
+   "year": 2014,
    "order": 89
   },
   {
@@ -631,6 +720,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125124-FHz4ND4kJzqu.jpg",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 90
   },
   {
@@ -638,6 +728,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99468-XayCplkIL3Gf.png",
    "rating": 4,
    "review": "",
+   "year": 2018,
    "order": 91
   },
   {
@@ -645,6 +736,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107068-KJq0eFP0GTjL.jpg",
    "rating": 4,
    "review": "",
+   "year": 2019,
    "order": 92
   },
   {
@@ -652,6 +744,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138424-97Nz1P7M3O2d.png",
    "rating": 4,
    "review": "",
+   "year": 2022,
    "order": 93
   },
   {
@@ -659,6 +752,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-2wsy9wFUdm1C.jpg",
    "rating": 5,
    "review": "",
+   "year": 2021,
    "order": 94
   },
   {
@@ -666,6 +760,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 95
   },
   {
@@ -673,6 +768,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158928-xqE0euKlQMnY.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 96
   },
   {
@@ -680,6 +776,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1195-odpKgDQ7A1fV.png",
    "rating": 5,
    "review": "",
+   "year": 2006,
    "order": 97
   },
   {
@@ -687,6 +784,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11319-6PwRxZiVChQo.jpg",
    "rating": 5,
    "review": "",
+   "year": 2012,
    "order": 98
   },
   {
@@ -694,6 +792,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1840-AYZXdXUCpqpR.jpg",
    "rating": 5,
    "review": "",
+   "year": 2007,
    "order": 99
   },
   {
@@ -701,6 +800,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx411-row6MWWNQDzH.jpg",
    "rating": 5,
    "review": "",
+   "year": 2005,
    "order": 100
   },
   {
@@ -708,6 +808,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3676-btPYJqb9o5gb.jpg",
    "rating": 4,
    "review": "",
+   "year": 1986,
    "order": 101
   },
   {
@@ -715,6 +816,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20832-vUNm5zrYWifc.jpg",
    "rating": 5,
    "review": "",
+   "year": 2015,
    "order": 102
   },
   {
@@ -722,6 +824,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98437-5q0GWqHhNAgJ.jpg",
    "rating": 5,
    "review": "",
+   "year": 2018,
    "order": 103
   },
   {
@@ -729,6 +832,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101474-tGRyvSAWMjU9.jpg",
    "rating": 5,
    "review": "",
+   "year": 2018,
    "order": 104
   },
   {
@@ -736,6 +840,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133844-E32FjKZ0XxEs.jpg",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 105
   },
   {
@@ -743,6 +848,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133845-InD67nSzCAUr.png",
    "rating": 5,
    "review": "",
+   "year": 2024,
    "order": 106
   },
   {
@@ -750,6 +856,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176642-lgDtPlodCMRm.jpg",
    "rating": 4,
    "review": "",
+   "year": 2025,
    "order": 107
   },
   {
@@ -757,6 +864,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97617-TmRRraupfbT5.jpg",
    "rating": 5,
    "review": "",
+   "year": 2017,
    "order": 108
   },
   {
@@ -764,6 +872,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132806-fuOSzS2YOpIt.jpg",
    "rating": 5,
    "review": "",
+   "year": 2021,
    "order": 109
   },
   {
@@ -771,6 +880,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12189-zj5AWUYO53Fv.jpg",
    "rating": 5,
    "review": "",
+   "year": 2012,
    "order": 110
   },
   {
@@ -778,6 +888,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12967-mO3zrHfsSocQ.jpg",
    "rating": 4,
    "review": "",
+   "year": 2012,
    "order": 111
   },
   {
@@ -785,6 +896,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151970-xtIx3VqEk02X.jpg",
    "rating": 5,
    "review": "",
+   "year": 2023,
    "order": 112
   },
   {
@@ -792,6 +904,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-eFad4szofm8d.png",
    "rating": 5,
    "review": "",
+   "year": 2024,
    "order": 113
   },
   {
@@ -799,6 +912,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-tIUXF2gfU8Sg.jpg",
    "rating": 5,
    "review": "",
+   "year": 2011,
    "order": 114
   },
   {
@@ -806,6 +920,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx13599-jpZpumSDPJM0.jpg",
    "rating": 4,
    "review": "",
+   "year": 2012,
    "order": 115
   },
   {
@@ -813,6 +928,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179955-e4UPTow92B1O.jpg",
    "rating": 4,
    "review": "",
+   "year": 2025,
    "order": 116
   },
   {
@@ -820,6 +936,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134761-UCVG3V6t6gJq.jpg",
    "rating": 3,
    "review": "",
+   "year": 2024,
    "order": 117
   },
   {
@@ -827,6 +944,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
    "rating": 4,
    "review": "",
+   "year": 2014,
    "order": 118
   },
   {
@@ -834,6 +952,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20517-SNNUtav2knou.jpg",
    "rating": 3,
    "review": "",
+   "year": 2014,
    "order": 119
   },
   {
@@ -841,6 +960,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105156-ZVtxISdoUqnY.png",
    "rating": 5,
    "review": "",
+   "year": 2019,
    "order": 120
   },
   {
@@ -848,6 +968,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97873-jYQ3dPoaOLxX.jpg",
    "rating": 5,
    "review": "",
+   "year": 2018,
    "order": 121
   },
   {
@@ -855,6 +976,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx890-opmekyhFfZO9.jpg",
    "rating": 4,
    "review": "",
+   "year": 1997,
    "order": 122
   },
   {
@@ -862,6 +984,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-it355ZgzquUd.png",
    "rating": 4,
    "review": "",
+   "year": 2024,
    "order": 123
   },
   {
@@ -869,6 +992,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-zjmixZ428Mwv.png",
    "rating": 4,
    "review": "",
+   "year": 2003,
    "order": 124
   },
   {
@@ -876,6 +1000,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1887-P36Pucd4qKji.png",
    "rating": 4,
    "review": "",
+   "year": 2007,
    "order": 125
   },
   {
@@ -883,6 +1008,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9941-ixTUsgXCg2AI.jpg",
    "rating": 5,
    "review": "",
+   "year": 2011,
    "order": 126
   },
   {
@@ -890,6 +1016,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-QnUGwlwwnsuN.jpg",
    "rating": 3,
    "review": "",
+   "year": 2011,
    "order": 127
   },
   {
@@ -897,6 +1024,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
    "rating": 4,
    "review": "",
+   "year": 2025,
    "order": 128
   },
   {
@@ -904,6 +1032,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/766.jpg",
    "rating": 4,
    "review": "",
+   "year": 2004,
    "order": 129
   },
   {
@@ -911,6 +1040,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx237-P1YEQQFqZ1An.jpg",
    "rating": 2,
    "review": "",
+   "year": 2005,
    "order": 130
   },
   {
@@ -918,6 +1048,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139274-0NJTOKWHdDew.png",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 131
   },
   {
@@ -925,6 +1056,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132351-1zyxbcJ86aoB.png",
    "rating": 5,
    "review": "",
+   "year": 2022,
    "order": 132
   },
   {
@@ -932,6 +1064,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157883-ib9fXLLjUy5m.png",
    "rating": 4,
    "review": "",
+   "year": 2023,
    "order": 133
   },
   {
@@ -939,6 +1072,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4107-WaS60WNsKZuu.jpg",
    "rating": 3,
    "review": "",
+   "year": 2008,
    "order": 134
   },
   {
@@ -946,6 +1080,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4565-FbFYEBTJSPyr.png",
    "rating": 3,
    "review": "",
+   "year": 2009,
    "order": 135
   },
   {
@@ -953,6 +1088,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7769-4SPih8uS2E4j.jpg",
    "rating": 4,
    "review": "",
+   "year": 2010,
    "order": 136
   },
   {
@@ -960,6 +1096,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
    "rating": 3,
    "review": "",
+   "year": 2012,
    "order": 137
   },
   {
@@ -967,6 +1104,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129201-HJBauga2be8I.png",
    "rating": 4,
    "review": "",
+   "year": 2022,
    "order": 138
   },
   {
@@ -974,6 +1112,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106286-5COcpd0J9VbL.png",
    "rating": 4,
    "review": "",
+   "year": 2019,
    "order": 139
   },
   {
@@ -981,6 +1120,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg",
    "rating": 4,
    "review": "",
+   "year": 2022,
    "order": 140
   },
   {
@@ -988,6 +1128,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20981-D6PAJAOC4jPc.jpg",
    "rating": 3,
    "review": "",
+   "year": 2015,
    "order": 141
   },
   {
@@ -995,6 +1136,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5681-3DmxUVn3grD0.jpg",
    "rating": 3,
    "review": "",
+   "year": 2009,
    "order": 142
   },
   {
@@ -1002,6 +1144,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2236-tH5fWFkHyVGg.png",
    "rating": 3,
    "review": "",
+   "year": 2006,
    "order": 143
   },
   {
@@ -1009,6 +1152,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-hsmWM2ydNm1m.jpg",
    "rating": 4,
    "review": "",
+   "year": 2006,
    "order": 144
   },
   {
@@ -1016,6 +1160,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100749-7Tptl7EAMAWH.jpg",
    "rating": 3,
    "review": "",
+   "year": 2018,
    "order": 145
   },
   {
@@ -1023,6 +1168,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100922-uxEhaCsqMMp3.png",
    "rating": 5,
    "review": "",
+   "year": 2018,
    "order": 146
   },
   {
@@ -1030,6 +1176,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx297-Sg9F6AkZczuH.jpg",
    "rating": 4,
    "review": "",
+   "year": 2004,
    "order": 147
   },
   {
@@ -1037,6 +1184,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21049-4AHSLeiDE9eg.png",
    "rating": 4,
    "review": "",
+   "year": 2016,
    "order": 148
   },
   {
@@ -1044,6 +1192,7 @@
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg",
    "rating": 4,
    "review": "",
+   "year": 2008,
    "order": 149
   }
  ]
