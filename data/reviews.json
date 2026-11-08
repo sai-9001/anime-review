@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:17:46.557Z",
- "count": 261,
+ "generatedAt": "2026-11-08T23:24:54.222Z",
+ "count": 262,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2090,6 +2090,14 @@
    "review": "",
    "year": 2018,
    "order": 261
+  },
+  {
+   "title": "幽☆遊☆白書",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx392-z90299zIvYmx.png",
+   "rating": 4,
+   "review": "",
+   "year": 1992,
+   "order": 262
   }
  ]
 }
