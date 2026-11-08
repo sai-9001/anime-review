@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:07:49.834Z",
- "count": 179,
+ "generatedAt": "2026-11-08T12:08:35.621Z",
+ "count": 180,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1434,6 +1434,14 @@
    "review": "",
    "year": 2014,
    "order": 179
+  },
+  {
+   "title": "だから僕は、Hができない。",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12549-GhbJO9KBUC7o.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2012,
+   "order": 180
   }
  ]
 }
