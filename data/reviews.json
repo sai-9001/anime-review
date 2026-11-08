@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:54:59.649Z",
- "count": 221,
+ "generatedAt": "2026-11-08T12:55:51.529Z",
+ "count": 222,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1770,6 +1770,14 @@
    "review": "",
    "year": 2007,
    "order": 221
+  },
+  {
+   "title": "私に天使が舞い降りた！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102680-75Mgrnn65PAg.png",
+   "rating": 4,
+   "review": "",
+   "year": 2019,
+   "order": 222
   }
  ]
 }
