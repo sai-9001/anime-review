@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T15:02:04.843Z",
- "count": 228,
+ "generatedAt": "2026-11-08T15:02:35.130Z",
+ "count": 229,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1826,6 +1826,14 @@
    "review": "",
    "year": 2016,
    "order": 228
+  },
+  {
+   "title": "この素晴らしい世界に祝福を！2",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png",
+   "rating": 4,
+   "review": "",
+   "year": 2017,
+   "order": 229
   }
  ]
 }
