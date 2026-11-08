@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T13:08:43.603Z",
- "count": 223,
+ "generatedAt": "2026-11-08T13:09:20.830Z",
+ "count": 224,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1786,6 +1786,14 @@
    "review": "",
    "year": 2014,
    "order": 223
+  },
+  {
+   "title": "恋姫†無双",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4262-O8yfbzjIef0a.png",
+   "rating": 3,
+   "review": "",
+   "year": 2008,
+   "order": 224
   }
  ]
 }
