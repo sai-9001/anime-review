@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:28:01.902Z",
- "count": 159,
+ "generatedAt": "2026-11-08T11:28:48.487Z",
+ "count": 160,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1274,6 +1274,14 @@
    "review": "",
    "year": 2018,
    "order": 159
+  },
+  {
+   "title": "ラブライブ! School idol project",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b15051-lwm0wVRWjKub.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2013,
+   "order": 160
   }
  ]
 }
