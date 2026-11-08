@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:53:16.190Z",
- "count": 219,
+ "generatedAt": "2026-11-08T12:54:04.167Z",
+ "count": 220,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1754,6 +1754,14 @@
    "review": "",
    "year": 2022,
    "order": 219
+  },
+  {
+   "title": "夫婦以上、恋人未満。",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141949-tViCIRHPZAyG.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2022,
+   "order": 220
   }
  ]
 }
