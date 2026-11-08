@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:36:40.506Z",
- "count": 206,
+ "generatedAt": "2026-11-08T12:37:47.814Z",
+ "count": 207,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1650,6 +1650,14 @@
    "review": "",
    "year": 2004,
    "order": 206
+  },
+  {
+   "title": "Free!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18507-RajfCYPpBfT3.png",
+   "rating": 3,
+   "review": "",
+   "year": 2013,
+   "order": 207
   }
  ]
 }
