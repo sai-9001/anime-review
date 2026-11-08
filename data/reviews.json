@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:16:42.394Z",
- "count": 259,
+ "generatedAt": "2026-11-08T23:17:08.293Z",
+ "count": 260,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2074,6 +2074,14 @@
    "review": "",
    "year": 2013,
    "order": 259
+  },
+  {
+   "title": "バカとテストと召喚獣",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6347-DCSHLkCY7UT3.jpg",
+   "rating": 5,
+   "review": "",
+   "year": 2010,
+   "order": 260
   }
  ]
 }
