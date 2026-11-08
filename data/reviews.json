@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T14:56:20.567Z",
- "count": 225,
+ "generatedAt": "2026-11-08T14:57:18.691Z",
+ "count": 226,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1802,6 +1802,14 @@
    "review": "",
    "year": 2002,
    "order": 225
+  },
+  {
+   "title": "機動戦士ガンダムSEED DESTINY",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx94-tng83ksiXm5E.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2004,
+   "order": 226
   }
  ]
 }
