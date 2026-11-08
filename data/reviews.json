@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:34:19.068Z",
- "count": 275,
+ "generatedAt": "2026-11-08T23:35:07.978Z",
+ "count": 276,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2202,6 +2202,14 @@
    "review": "",
    "year": 2014,
    "order": 275
+  },
+  {
+   "title": "イレブンアイズ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6682-ZptgLsCCNHjL.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2009,
+   "order": 276
   }
  ]
 }
