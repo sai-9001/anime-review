@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:17:54.929Z",
- "count": 152,
+ "generatedAt": "2026-11-08T11:19:00.243Z",
+ "count": 153,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1218,6 +1218,14 @@
    "review": "",
    "year": 2007,
    "order": 152
+  },
+  {
+   "title": "ガンダムビルドファイターズトライ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20739-lsZaaCLWrcSK.png",
+   "rating": 5,
+   "review": "",
+   "year": 2014,
+   "order": 153
   }
  ]
 }
