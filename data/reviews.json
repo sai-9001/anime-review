@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:33:28.756Z",
- "count": 201,
+ "generatedAt": "2026-11-08T12:34:13.437Z",
+ "count": 202,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1610,6 +1610,14 @@
    "review": "",
    "year": 2010,
    "order": 201
+  },
+  {
+   "title": "ソードアート・オンライン -オーディナル・スケール-",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21403-k8DZhZ3x1BCO.png",
+   "rating": 4,
+   "review": "",
+   "year": 2017,
+   "order": 202
   }
  ]
 }
