@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:29:17.744Z",
- "count": 268,
+ "generatedAt": "2026-11-08T23:29:55.737Z",
+ "count": 269,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2146,6 +2146,14 @@
    "review": "",
    "year": 2009,
    "order": 268
+  },
+  {
+   "title": "甘々と稲妻",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21659-r1nnqXPIcl9D.png",
+   "rating": 3,
+   "review": "",
+   "year": 2016,
+   "order": 269
   }
  ]
 }
