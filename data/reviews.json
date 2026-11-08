@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:47:25.017Z",
- "count": 277,
+ "generatedAt": "2026-11-08T23:48:02.340Z",
+ "count": 278,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2218,6 +2218,14 @@
    "review": "",
    "year": 2010,
    "order": 277
+  },
+  {
+   "title": "Ｄ・Ｎ・ＡＮＧＥＬ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/61.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2003,
+   "order": 278
   }
  ]
 }
