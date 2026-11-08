@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:08:15.105Z",
- "count": 251,
+ "generatedAt": "2026-11-08T23:08:50.780Z",
+ "count": 252,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2010,6 +2010,14 @@
    "review": "",
    "year": 1999,
    "order": 251
+  },
+  {
+   "title": "リコーダーとランドセル　ド♪",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11491.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2012,
+   "order": 252
   }
  ]
 }
