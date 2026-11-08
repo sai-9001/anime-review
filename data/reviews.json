@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:50:19.032Z",
- "count": 214,
+ "generatedAt": "2026-11-08T12:51:03.152Z",
+ "count": 215,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1714,6 +1714,14 @@
    "review": "",
    "year": 2021,
    "order": 214
+  },
+  {
+   "title": "盾の勇者の成り上がり",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99263-LcazQwdlWzMy.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2019,
+   "order": 215
   }
  ]
 }
