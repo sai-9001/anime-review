@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:26:38.723Z",
- "count": 263,
+ "generatedAt": "2026-11-08T23:27:20.889Z",
+ "count": 264,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2106,6 +2106,14 @@
    "review": "",
    "year": 2008,
    "order": 263
+  },
+  {
+   "title": "ウルトラマニアック",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178-LhW1hq84JRHW.png",
+   "rating": 4,
+   "review": "",
+   "year": 2003,
+   "order": 264
   }
  ]
 }
