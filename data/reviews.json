@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:27:29.233Z",
- "count": 197,
+ "generatedAt": "2026-11-08T12:28:38.990Z",
+ "count": 198,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1578,6 +1578,14 @@
    "review": "",
    "year": 2015,
    "order": 197
+  },
+  {
+   "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167143-iY2ho0I0KnYF.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2025,
+   "order": 198
   }
  ]
 }
