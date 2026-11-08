@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T15:16:18.690Z",
- "count": 239,
+ "generatedAt": "2026-11-08T22:31:59.091Z",
+ "count": 240,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1914,6 +1914,14 @@
    "review": "",
    "year": 1988,
    "order": 239
+  },
+  {
+   "title": "デリシャスパーティ♡プリキュア",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142080-YQEmfiA8D0Fy.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2022,
+   "order": 240
   }
  ]
 }
