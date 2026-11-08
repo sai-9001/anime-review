@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:55:51.529Z",
- "count": 222,
+ "generatedAt": "2026-11-08T13:08:43.603Z",
+ "count": 223,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1778,6 +1778,14 @@
    "review": "",
    "year": 2019,
    "order": 222
+  },
+  {
+   "title": "グリザイアの果実",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx17729-Xhgile3kCpqB.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2014,
+   "order": 223
   }
  ]
 }
