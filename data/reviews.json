@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:29:07.067Z",
- "count": 161,
+ "generatedAt": "2026-11-08T11:30:07.683Z",
+ "count": 162,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1290,6 +1290,14 @@
    "review": "",
    "year": 2016,
    "order": 161
+  },
+  {
+   "title": "出会って5秒でバトル",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126047-C3ivEjzfigA0.jpg",
+   "rating": 2,
+   "review": "漫画が良すぎた",
+   "year": 2021,
+   "order": 162
   }
  ]
 }
