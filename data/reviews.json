@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:33:35.010Z",
- "count": 274,
+ "generatedAt": "2026-11-08T23:34:19.068Z",
+ "count": 275,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2194,6 +2194,14 @@
    "review": "",
    "year": 2010,
    "order": 274
+  },
+  {
+   "title": "いなり、こんこん、恋いろは。",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20488-3kTJBoU55DeQ.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2014,
+   "order": 275
   }
  ]
 }
