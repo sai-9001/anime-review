@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:08:50.780Z",
- "count": 252,
+ "generatedAt": "2026-11-08T23:09:34.057Z",
+ "count": 253,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2018,6 +2018,14 @@
    "review": "",
    "year": 2012,
    "order": 252
+  },
+  {
+   "title": "デジモンアドベンチャー ぼくらのウォーゲーム!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2397-jFhwpduFwf3r.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2000,
+   "order": 253
   }
  ]
 }
