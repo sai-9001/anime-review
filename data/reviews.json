@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:45:02.806Z",
- "count": 166,
+ "generatedAt": "2026-11-08T11:49:23.102Z",
+ "count": 167,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1330,6 +1330,14 @@
    "review": "",
    "year": 2011,
    "order": 166
+  },
+  {
+   "title": "神様のメモ帳",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10568-QZbLhgMAQC76.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2011,
+   "order": 167
   }
  ]
 }
