@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:03:09.286Z",
- "count": 173,
+ "generatedAt": "2026-11-08T12:03:45.246Z",
+ "count": 174,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1386,6 +1386,14 @@
    "review": "",
    "year": 2013,
    "order": 173
+  },
+  {
+   "title": "鬼滅の刃",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-WBsBl0ClmgYL.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2019,
+   "order": 174
   }
  ]
 }
