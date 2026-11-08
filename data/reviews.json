@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:10:10.378Z",
- "count": 254,
+ "generatedAt": "2026-11-08T23:10:38.945Z",
+ "count": 255,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2034,6 +2034,14 @@
    "review": "",
    "year": 2002,
    "order": 254
+  },
+  {
+   "title": "おねがい☆ツインズ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/196.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2003,
+   "order": 255
   }
  ]
 }
