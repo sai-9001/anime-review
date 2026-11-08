@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T15:12:17.123Z",
- "count": 237,
+ "generatedAt": "2026-11-08T15:14:57.484Z",
+ "count": 238,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1898,6 +1898,14 @@
    "review": "",
    "year": 2003,
    "order": 237
+  },
+  {
+   "title": "破邪大星弾劾凰 [ダンガイオー]",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx498-HAJTInD6rabS.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 1987,
+   "order": 238
   }
  ]
 }
