@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:25:41.719Z",
- "count": 195,
+ "generatedAt": "2026-11-08T12:26:14.260Z",
+ "count": 196,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1562,6 +1562,14 @@
    "review": "",
    "year": 2013,
    "order": 195
+  },
+  {
+   "title": "革命機ヴァルヴレイヴ 2",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18295-BhCBBJctIgNp.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2013,
+   "order": 196
   }
  ]
 }
