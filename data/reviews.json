@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:15:59.581Z",
- "count": 189,
+ "generatedAt": "2026-11-08T12:17:00.043Z",
+ "count": 190,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1514,6 +1514,14 @@
    "review": "",
    "year": 2013,
    "order": 189
+  },
+  {
+   "title": "絶対衝激～プラトニックハート～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5020-5oL8hMhdY7ER.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2008,
+   "order": 190
   }
  ]
 }
