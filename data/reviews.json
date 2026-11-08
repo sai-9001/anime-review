@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:49:23.102Z",
- "count": 167,
+ "generatedAt": "2026-11-08T11:53:55.596Z",
+ "count": 168,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1338,6 +1338,14 @@
    "review": "",
    "year": 2011,
    "order": 167
+  },
+  {
+   "title": "ダンジョンに出会いを求めるのは間違っているだろうか",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20920-MTREwZOG4BAD.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2015,
+   "order": 168
   }
  ]
 }
