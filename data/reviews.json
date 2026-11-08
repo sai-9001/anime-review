@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:12:22.726Z",
- "count": 257,
+ "generatedAt": "2026-11-08T23:12:54.901Z",
+ "count": 258,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2058,6 +2058,14 @@
    "review": "",
    "year": 2002,
    "order": 257
+  },
+  {
+   "title": "この醜くも美しい世界",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146-JPwhcOFDs1bY.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2004,
+   "order": 258
   }
  ]
 }
