@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:05:25.814Z",
- "count": 176,
+ "generatedAt": "2026-11-08T12:06:39.266Z",
+ "count": 177,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1410,6 +1410,14 @@
    "review": "",
    "year": 2005,
    "order": 176
+  },
+  {
+   "title": "おとなの防具屋さん",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104308-lafZJEBjaXH3.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2018,
+   "order": 177
   }
  ]
 }
