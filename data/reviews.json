@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:13:53.175Z",
- "count": 187,
+ "generatedAt": "2026-11-08T12:14:44.410Z",
+ "count": 188,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1498,6 +1498,14 @@
    "review": "",
    "year": 2009,
    "order": 187
+  },
+  {
+   "title": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19221-gYYDXIVzas7u.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2013,
+   "order": 188
   }
  ]
 }
