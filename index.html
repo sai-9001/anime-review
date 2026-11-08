@@ -33,6 +33,13 @@ input:focus,select:focus{border-color:var(--accent)}
 .stars{color:var(--gold);letter-spacing:1px;font-size:16px;margin:4px 0}
 .stars.none{color:var(--muted);font-size:12px;letter-spacing:0}
 .review{font-size:13px;color:#d3dbe8;white-space:pre-wrap;overflow-wrap:anywhere;margin:6px 0 0}
+.toggle{display:flex;align-items:center;gap:8px;font-size:14px;padding:0 4px;cursor:pointer;white-space:nowrap}.toggle input{width:auto;padding:0;margin:0}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 6px}
+.chip{border:1px solid var(--line);background:var(--panel2);color:var(--text);border-radius:20px;padding:6px 13px;font:inherit;font-size:13px;cursor:pointer}
+.chip:hover,.chip:focus-visible{border-color:var(--accent);outline:none}
+.year-head{display:flex;align-items:baseline;gap:10px;margin:28px 0 12px;padding-bottom:8px;border-bottom:1px solid var(--line);font-size:20px;font-weight:800;scroll-margin-top:12px}
+.year-head small{color:var(--muted);font-size:12px;font-weight:400}
+section.year:first-child .year-head{margin-top:8px}
 .empty{padding:35px;text-align:center;color:var(--muted);background:var(--panel);border:1px dashed var(--line);border-radius:15px;grid-column:1/-1}
 footer{margin-top:34px;text-align:center;color:var(--muted);font-size:12px}
 @media(max-width:600px){.hero{border-radius:12px}.logo{width:46px;height:46px}h1{font-size:21px}.grid{grid-template-columns:1fr}.cover{width:80px;height:114px}}
@@ -53,9 +60,11 @@ footer{margin-top:34px;text-align:center;color:var(--muted);font-size:12px}
       <option value="orderDesc">登録が新しい順</option>
       <option value="orderAsc">登録が古い順</option>
     </select>
+    <label class="toggle"><input type="checkbox" id="byYear" checked><span>放送年ごとに表示</span></label>
   </div>
+  <div class="chips" id="chips" aria-label="放送年へ移動"></div>
   <p class="count" id="count"></p>
-  <main class="grid" id="grid"><div class="empty">読み込み中…</div></main>
+  <main id="list"><div class="empty">読み込み中…</div></main>
   <footer>© Anime Log</footer>
 </div>
 <script>
@@ -67,43 +76,63 @@ footer{margin-top:34px;text-align:center;color:var(--muted);font-size:12px}
   function safeImg(u){
     try{var x=new URL(String(u||''));return x.protocol==='https:'&&ALLOWED.indexOf(x.hostname)>=0?x.href:'';}catch(e){return '';}
   }
-  function render(){
-    var kw=$('q').value.trim().toLowerCase(), sort=$('sort').value;
-    var rows=items.filter(function(a){return !kw||a.title.toLowerCase().indexOf(kw)>=0||a.review.toLowerCase().indexOf(kw)>=0;});
-    rows.sort(function(a,b){
+  function cmp(sort){
+    return function(a,b){
       if(sort==='title')return a.title.localeCompare(b.title,'ja');
       if(sort==='orderDesc')return b.order-a.order;
       if(sort==='orderAsc')return a.order-b.order;
       return (b.rating-a.rating)||(b.order-a.order);
-    });
+    };
+  }
+  function makeCard(a){
+    var card=document.createElement('article');card.className='card';
+    var src=safeImg(a.image),cover;
+    if(src){cover=document.createElement('img');cover.className='cover';cover.alt='';cover.loading='lazy';cover.referrerPolicy='no-referrer';cover.src=src;cover.onerror=function(){cover.style.visibility='hidden';};}
+    else{cover=document.createElement('div');cover.className='cover ph';cover.textContent='No Image';}
+    var info=document.createElement('div');info.className='info';
+    var t=document.createElement('div');t.className='title';t.textContent=a.title;
+    var s=document.createElement('div');s.className='stars';
+    if(a.rating>=1){s.textContent='★'.repeat(a.rating)+'☆'.repeat(5-a.rating);s.setAttribute('aria-label','評価 '+a.rating+' / 5');}
+    else{s.className+=' none';s.textContent='未評価';}
+    info.append(t,s);
+    if(a.review){var r=document.createElement('p');r.className='review';r.textContent=a.review;info.append(r);}
+    card.append(cover,info);return card;
+  }
+  function makeGrid(rows){var g=document.createElement('div');g.className='grid';rows.forEach(function(a){g.appendChild(makeCard(a));});return g;}
+  function yearLabel(y){return y?(y+'年'):'放送年不明';}
+  function render(){
+    var kw=$('q').value.trim().toLowerCase(), sort=$('sort').value, grouped=$('byYear').checked;
+    var rows=items.filter(function(a){return !kw||a.title.toLowerCase().indexOf(kw)>=0||a.review.toLowerCase().indexOf(kw)>=0;});
+    rows.sort(cmp(sort));
     $('count').textContent=items.length?(rows.length+' 作品'+(kw?'（全 '+items.length+' 作品中）':'')):'';
-    var g=$('grid'); g.replaceChildren();
-    if(!rows.length){var e=document.createElement('div');e.className='empty';e.textContent=items.length?'条件に一致する作品がありません。':'公開中のレビューはまだありません。';g.appendChild(e);return;}
-    rows.forEach(function(a){
-      var card=document.createElement('article');card.className='card';
-      var src=safeImg(a.image),cover;
-      if(src){cover=document.createElement('img');cover.className='cover';cover.alt='';cover.loading='lazy';cover.referrerPolicy='no-referrer';cover.src=src;cover.onerror=function(){cover.style.visibility='hidden';};}
-      else{cover=document.createElement('div');cover.className='cover ph';cover.textContent='No Image';}
-      var info=document.createElement('div');info.className='info';
-      var t=document.createElement('div');t.className='title';t.textContent=a.title;
-      var s=document.createElement('div');s.className='stars';
-      if(a.rating>=1){s.textContent='★'.repeat(a.rating)+'☆'.repeat(5-a.rating);s.setAttribute('aria-label','評価 '+a.rating+' / 5');}
-      else{s.className+=' none';s.textContent='未評価';}
-      info.append(t,s);
-      if(a.review){var r=document.createElement('p');r.className='review';r.textContent=a.review;info.append(r);}
-      card.append(cover,info);g.appendChild(card);
+    var root=$('list'),chips=$('chips'); root.replaceChildren(); chips.replaceChildren();
+    if(!rows.length){var e=document.createElement('div');e.className='empty';e.textContent=items.length?'条件に一致する作品がありません。':'公開中のレビューはまだありません。';root.appendChild(e);return;}
+    if(!grouped){root.appendChild(makeGrid(rows));return;}
+    var groups={};rows.forEach(function(a){(groups[a.year]=groups[a.year]||[]).push(a);});
+    var years=Object.keys(groups).map(Number).sort(function(a,b){
+      if(!a)return 1; if(!b)return -1; return b-a;   // 新しい年が先、放送年不明は最後
+    });
+    years.forEach(function(y){
+      var sec=document.createElement('section');sec.className='year';sec.id='year-'+(y||'unknown');
+      var h=document.createElement('h2');h.className='year-head';h.textContent=yearLabel(y);
+      var n=document.createElement('small');n.textContent=groups[y].length+'作品';h.appendChild(n);
+      sec.append(h,makeGrid(groups[y]));root.appendChild(sec);
+      var c=document.createElement('button');c.type='button';c.className='chip';c.textContent=yearLabel(y);
+      c.addEventListener('click',function(){sec.scrollIntoView({behavior:'smooth',block:'start'});});
+      chips.appendChild(c);
     });
   }
   function clean(x){
     var rating=Number(x&&x.rating);
     return {title:String((x&&x.title)||''),image:String((x&&x.image)||''),
       rating:(Number.isInteger(rating)&&rating>=1&&rating<=5)?rating:0,
-      review:String((x&&x.review)||''),order:Number(x&&x.order)||0};
+      review:String((x&&x.review)||''),order:Number(x&&x.order)||0,
+      year:(Number.isInteger(Number(x&&x.year))&&Number(x.year)>=1900&&Number(x.year)<=2100)?Number(x.year):0};
   }
-  $('q').addEventListener('input',render);$('sort').addEventListener('change',render);
+  $('q').addEventListener('input',render);$('sort').addEventListener('change',render);$('byYear').addEventListener('change',render);
   fetch('data/reviews.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
     .then(function(d){items=(d&&Array.isArray(d.items)?d.items:[]).map(clean).filter(function(a){return a.title;});render();})
-    .catch(function(){$('grid').replaceChildren();var e=document.createElement('div');e.className='empty';e.textContent='データを読み込めませんでした。時間をおいて再読み込みしてください。';$('grid').appendChild(e);});
+    .catch(function(){$('list').replaceChildren();var e=document.createElement('div');e.className='empty';e.textContent='データを読み込めませんでした。時間をおいて再読み込みしてください。';$('list').appendChild(e);});
 })();
 </script>
 </body>
