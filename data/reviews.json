@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:25:16.853Z",
- "count": 156,
+ "generatedAt": "2026-11-08T11:25:37.344Z",
+ "count": 157,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1250,6 +1250,14 @@
    "review": "",
    "year": 2022,
    "order": 156
+  },
+  {
+   "title": "異世界の聖機師物語",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5781-35eEKnvpvri8.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2009,
+   "order": 157
   }
  ]
 }
