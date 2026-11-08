@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T22:58:58.220Z",
- "count": 244,
+ "generatedAt": "2026-11-08T22:59:58.116Z",
+ "count": 245,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1954,6 +1954,14 @@
    "review": "",
    "year": 2012,
    "order": 244
+  },
+  {
+   "title": "魔法つかいプリキュア！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21506-hcLdwWKY4uyt.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2016,
+   "order": 245
   }
  ]
 }
