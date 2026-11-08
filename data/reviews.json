@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T22:53:05.282Z",
- "count": 242,
+ "generatedAt": "2026-11-08T22:54:01.336Z",
+ "count": 243,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1908,12 +1908,20 @@
    "order": 238
   },
   {
+   "title": "破邪巨星Gダンガイオ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2521-5nz7eePOSGCs.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2001,
+   "order": 239
+  },
+  {
    "title": "冥王計画ゼオライマー",
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1832-1n0THynKNW1F.jpg",
    "rating": 4,
    "review": "",
    "year": 1988,
-   "order": 239
+   "order": 240
   },
   {
    "title": "デリシャスパーティ♡プリキュア",
@@ -1921,7 +1929,7 @@
    "rating": 3,
    "review": "",
    "year": 2022,
-   "order": 240
+   "order": 241
   },
   {
    "title": "キミとアイドルプリキュア♪",
@@ -1929,7 +1937,7 @@
    "rating": 4,
    "review": "",
    "year": 2025,
-   "order": 241
+   "order": 242
   },
   {
    "title": "わんだふるぷりきゅあ！",
@@ -1937,7 +1945,7 @@
    "rating": 4,
    "review": "",
    "year": 2024,
-   "order": 242
+   "order": 243
   }
  ]
 }
