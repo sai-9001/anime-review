@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:31:54.746Z",
- "count": 200,
+ "generatedAt": "2026-11-08T12:33:28.756Z",
+ "count": 201,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1602,6 +1602,14 @@
    "review": "",
    "year": 2013,
    "order": 200
+  },
+  {
+   "title": "ソ・ラ・ノ・ヲ・ト",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6802-MmsfM8KAgZuR.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2010,
+   "order": 201
   }
  ]
 }
