@@ -1,6 +1,1050 @@
 {
  "version": 1,
- "generatedAt": "",
- "count": 0,
- "items": []
+ "generatedAt": "2026-11-08T10:50:08.973Z",
+ "count": 149,
+ "items": [
+  {
+   "title": "葬送のフリーレン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 1
+  },
+  {
+   "title": "葬送のフリーレン 第2期",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 2
+  },
+  {
+   "title": "五等分の花嫁",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-cchriAdH95cQ.png",
+   "rating": 5,
+   "review": "",
+   "order": 3
+  },
+  {
+   "title": "宇崎ちゃんは遊びたい！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115113-bJDZV7kP0XrP.png",
+   "rating": 4,
+   "review": "",
+   "order": 4
+  },
+  {
+   "title": "野生のラスボスが現れた！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180523-FjvW1XByUNMK.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 5
+  },
+  {
+   "title": "オタクに優しいギャルはいない!?",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 6
+  },
+  {
+   "title": "沖縄で好きになった子が方言すぎてツラすぎる",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166699-k5hIccoA5XSW.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 7
+  },
+  {
+   "title": "薬屋のひとりごと",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 8
+  },
+  {
+   "title": "薬屋のひとりごと 第2期",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 9
+  },
+  {
+   "title": "도굴왕",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184356-SlFIstXUXJYP.png",
+   "rating": 5,
+   "review": "",
+   "order": 10
+  },
+  {
+   "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153360-VM22UwGEz8Ir.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 11
+  },
+  {
+   "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd Season",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169440-MhlOxaIyASRu.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 12
+  },
+  {
+   "title": "スーパーの裏でヤニ吸うふたり",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 13
+  },
+  {
+   "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106479-JmPk1F5ubMtm.png",
+   "rating": 5,
+   "review": "",
+   "order": 14
+  },
+  {
+   "title": "僕の心のヤバイやつ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-Xnwmx7wuoIWV.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 15
+  },
+  {
+   "title": "僕の心のヤバイやつ 第2期",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-vCMkF4e3x5FB.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 16
+  },
+  {
+   "title": "僕の心のヤバイやつ ツイヤバ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170221-U5dBr37hDop7.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 17
+  },
+  {
+   "title": "劇場版 僕の心のヤバイやつ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png",
+   "rating": 5,
+   "review": "",
+   "order": 18
+  },
+  {
+   "title": "転生したら剣でした",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139587-rbZVcigCRtHY.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 19
+  },
+  {
+   "title": "転生したらスライムだった件",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101280-tDxCVJm714nt.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 20
+  },
+  {
+   "title": "ソードアート・オンライン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-SxYDUzdr9rh2.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 21
+  },
+  {
+   "title": "ソードアート・オンライン II",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20594-FhRgZ1H9Istt.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 22
+  },
+  {
+   "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100183-v4S2sGAG3A24.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 23
+  },
+  {
+   "title": "魔法騎士（マジックナイト）レイアース",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx435-WO3USrR2jB5u.png",
+   "rating": 5,
+   "review": "",
+   "order": 24
+  },
+  {
+   "title": "魔法騎士（マジックナイト）レイアース II",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1563-iBCCwEnUoRVm.png",
+   "rating": 5,
+   "review": "",
+   "order": 25
+  },
+  {
+   "title": "無職転生 ～異世界行ったら本気だす～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 26
+  },
+  {
+   "title": "ゆるキャン△",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-Vzysp1EsrzgD.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 27
+  },
+  {
+   "title": "ゆるキャン△ SEASON２",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104459-pywEKGQON613.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 28
+  },
+  {
+   "title": "映画 ゆるキャン△",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104460-EwUV9ZJMCtnR.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 29
+  },
+  {
+   "title": "戦隊大失格",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158417-Ii0DOFwNim0A.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 30
+  },
+  {
+   "title": "戦隊大失格 2nd season",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178781-pbk5FgfiAJxS.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 31
+  },
+  {
+   "title": "サカサマのパテマ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12477-KtZm8BuvrPYo.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 32
+  },
+  {
+   "title": "らんま1/2 (2024)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178533-b88OLxm50jcH.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 33
+  },
+  {
+   "title": "ナイツ&マジック",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97663-4TMJDIpm3toz.png",
+   "rating": 5,
+   "review": "",
+   "order": 34
+  },
+  {
+   "title": "NARUTO -ナルト-",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-dE6UHbFFg1A5.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 35
+  },
+  {
+   "title": "NARUTO -ナルト- 疾風伝",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-kGfVm0YqCPcu.png",
+   "rating": 3,
+   "review": "",
+   "order": 36
+  },
+  {
+   "title": "ONE PIECE",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 37
+  },
+  {
+   "title": "異世界はスマートフォンとともに。",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98491-5vyX89aabiHz.jpg",
+   "rating": 2,
+   "review": "",
+   "order": 38
+  },
+  {
+   "title": "BanG Dream!（バンドリ！）",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87435-yHlVTP1HFiXH.png",
+   "rating": 4,
+   "review": "",
+   "order": 39
+  },
+  {
+   "title": "がっこうぐらし!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20754-e5JXeLpHoN7w.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 40
+  },
+  {
+   "title": "とある魔術の禁書目録",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4654-ba44icsxDQZd.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 41
+  },
+  {
+   "title": "とある科学の超電磁砲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6213-QtrlDQnexApL.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 42
+  },
+  {
+   "title": "とある科学の超電磁砲S",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx16049-FbOhOsQAuisF.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 43
+  },
+  {
+   "title": "とある科学の超電磁砲T",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104462-KrVWRvPcR7ci.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 44
+  },
+  {
+   "title": "Re:ゼロから始める異世界生活",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 45
+  },
+  {
+   "title": "アイドルマスター",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10278-FnbOihGuSpfc.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 46
+  },
+  {
+   "title": "アイドルマスター ゼノグラシア",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1694-0fQrbEdvEBYW.png",
+   "rating": 4,
+   "review": "",
+   "order": 47
+  },
+  {
+   "title": "宇宙のステルヴィア",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113-LVBTWnBDpKb1.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 48
+  },
+  {
+   "title": "戦え!! イクサー1",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2291-mfM44JGWN1vV.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 49
+  },
+  {
+   "title": "冒険！イクサー３",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2292.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 50
+  },
+  {
+   "title": "サクラ大戦",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx561-ke7B6XcWEI3Y.png",
+   "rating": 3,
+   "review": "",
+   "order": 51
+  },
+  {
+   "title": "神魂合体ゴーダンナー！！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1103.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 52
+  },
+  {
+   "title": "神魂合体ゴーダンナー!! SECOND SEASON",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1104.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 53
+  },
+  {
+   "title": "ＣＬＡＮＮＡＤ -クラナド-",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2167-pSDBcyc0vjej.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 54
+  },
+  {
+   "title": "劇場版 クラナド",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1723-PzMdQPvfcxxA.png",
+   "rating": 3,
+   "review": "",
+   "order": 55
+  },
+  {
+   "title": "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png",
+   "rating": 5,
+   "review": "",
+   "order": 56
+  },
+  {
+   "title": "ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6351.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 57
+  },
+  {
+   "title": "ＣＬＡＮＮＡＤ もうひとつの世界 智代編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4059-mrA0Wky7bTgz.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 58
+  },
+  {
+   "title": "リトルバスターズ!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx13655-ZdAJjba0HrY6.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 59
+  },
+  {
+   "title": "AIR",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101-8ugQ3UjUQ8Ki.png",
+   "rating": 5,
+   "review": "",
+   "order": 60
+  },
+  {
+   "title": "AIR (劇場版)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx713-NMntmhlt9mV5.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 61
+  },
+  {
+   "title": "カノン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144-YdWsrDNssRIX.png",
+   "rating": 4,
+   "review": "",
+   "order": 62
+  },
+  {
+   "title": "カノン (2006)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1530-nkzstlVZhZNG.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 63
+  },
+  {
+   "title": "乙女は僕に恋してる",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1569-mUu6BRRfd1fX.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 64
+  },
+  {
+   "title": "けいおん!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5680-r3AI3Cwfv0Aq.png",
+   "rating": 5,
+   "review": "",
+   "order": 65
+  },
+  {
+   "title": "けいおん!!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7791-4tnomla2mMDp.png",
+   "rating": 5,
+   "review": "",
+   "order": 66
+  },
+  {
+   "title": "映画けいおん！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9617-Z2RA1TIkcNEg.png",
+   "rating": 4,
+   "review": "",
+   "order": 67
+  },
+  {
+   "title": "ジョジョの奇妙な冒険 (TV)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-VT5dRzTBSZ0w.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 68
+  },
+  {
+   "title": "ジョジョの奇妙な冒険 ファントム ブラッド",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3603-SlwsgQeC4fTg.png",
+   "rating": 5,
+   "review": "",
+   "order": 69
+  },
+  {
+   "title": "生徒会の一存",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5909-cqlzezmvzLWa.png",
+   "rating": 5,
+   "review": "",
+   "order": 70
+  },
+  {
+   "title": "生徒会の一存 Lv.2",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10464-BlUWhUYM8DWz.png",
+   "rating": 5,
+   "review": "",
+   "order": 71
+  },
+  {
+   "title": "おくさまが生徒会長!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20984-oLzyyYGcrLDe.png",
+   "rating": 4,
+   "review": "",
+   "order": 72
+  },
+  {
+   "title": "賭ケグルイ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 73
+  },
+  {
+   "title": "賭ケグルイ××",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100876-RfvmpW1B8bDQ.png",
+   "rating": 4,
+   "review": "",
+   "order": 74
+  },
+  {
+   "title": "賭ケグルイ双",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141351-47JtghppCwMu.png",
+   "rating": 5,
+   "review": "",
+   "order": 75
+  },
+  {
+   "title": "五等分の花嫁∬",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109261-65rKxMDlcU9r.png",
+   "rating": 5,
+   "review": "",
+   "order": 76
+  },
+  {
+   "title": "映画 五等分の花嫁",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131520-89Qfo8JnGHI3.png",
+   "rating": 5,
+   "review": "",
+   "order": 77
+  },
+  {
+   "title": "カードキャプターさくら",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx232-ERyKCNNPJJeh.png",
+   "rating": 5,
+   "review": "",
+   "order": 78
+  },
+  {
+   "title": "劇場版 カードキャプターさくら",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx371-sdrIzrI5qXl3.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 79
+  },
+  {
+   "title": "黒神 The Animation",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5079-GGC5BR9xIiE0.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 80
+  },
+  {
+   "title": "HAPPY☆LESSON",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx260-8Jw78seti49u.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 81
+  },
+  {
+   "title": "HAPPY☆LESSON ADVANCE",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/261.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 82
+  },
+  {
+   "title": "HAPPY☆LESSON THE FINAL",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/262.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 83
+  },
+  {
+   "title": "HAPPY☆LESSON",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/259.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 84
+  },
+  {
+   "title": "シスター・プリンセス",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx836-ZYPEtTbVOJXz.png",
+   "rating": 5,
+   "review": "",
+   "order": 85
+  },
+  {
+   "title": "シスター・プリンセス ～リピュア～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx835-zwS3iHfCpo95.png",
+   "rating": 4,
+   "review": "",
+   "order": 86
+  },
+  {
+   "title": "甘城ブリリアントパーク",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20602-f6CfipBF44kV.png",
+   "rating": 5,
+   "review": "",
+   "order": 87
+  },
+  {
+   "title": "無彩限のファントム・ワールド",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21306-nXw2pY43S2ox.png",
+   "rating": 5,
+   "review": "",
+   "order": 88
+  },
+  {
+   "title": "THE LAST -NARUTO THE MOVIE-",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16870-BD4K9rzlhCP4.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 89
+  },
+  {
+   "title": "理系が恋に落ちたので証明してみた。r=1-sinθ（ハート）",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125124-FHz4ND4kJzqu.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 90
+  },
+  {
+   "title": "からかい上手の高木さん",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99468-XayCplkIL3Gf.png",
+   "rating": 4,
+   "review": "",
+   "order": 91
+  },
+  {
+   "title": "からかい上手の高木さん 2",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107068-KJq0eFP0GTjL.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 92
+  },
+  {
+   "title": "からかい上手の高木さん３",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138424-97Nz1P7M3O2d.png",
+   "rating": 4,
+   "review": "",
+   "order": 93
+  },
+  {
+   "title": "蜘蛛ですが、なにか？",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-2wsy9wFUdm1C.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 94
+  },
+  {
+   "title": "SPY×FAMILY",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 95
+  },
+  {
+   "title": "SPY×FAMILY CODE: White",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158928-xqE0euKlQMnY.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 96
+  },
+  {
+   "title": "ゼロの使い魔",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1195-odpKgDQ7A1fV.png",
+   "rating": 5,
+   "review": "",
+   "order": 97
+  },
+  {
+   "title": "ゼロの使い魔F",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11319-6PwRxZiVChQo.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 98
+  },
+  {
+   "title": "ゼロの使い魔 ～双月の騎士～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1840-AYZXdXUCpqpR.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 99
+  },
+  {
+   "title": "ガン×ソード",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx411-row6MWWNQDzH.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 100
+  },
+  {
+   "title": "マシンロボ クロノスの大逆襲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3676-btPYJqb9o5gb.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 101
+  },
+  {
+   "title": "オーバーロード",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20832-vUNm5zrYWifc.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 102
+  },
+  {
+   "title": "オーバーロードⅡ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98437-5q0GWqHhNAgJ.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 103
+  },
+  {
+   "title": "オーバーロードⅢ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101474-tGRyvSAWMjU9.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 104
+  },
+  {
+   "title": "オーバーロードⅣ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133844-E32FjKZ0XxEs.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 105
+  },
+  {
+   "title": "オーバーロード 聖王国編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133845-InD67nSzCAUr.png",
+   "rating": 5,
+   "review": "",
+   "order": 106
+  },
+  {
+   "title": "天久鷹央の推理カルテ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176642-lgDtPlodCMRm.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 107
+  },
+  {
+   "title": "異世界食堂",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97617-TmRRraupfbT5.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 108
+  },
+  {
+   "title": "異世界食堂２",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132806-fuOSzS2YOpIt.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 109
+  },
+  {
+   "title": "氷菓",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12189-zj5AWUYO53Fv.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 110
+  },
+  {
+   "title": "アルカナ・ファミリア －La storia della Arcana Famiglia－",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12967-mO3zrHfsSocQ.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 111
+  },
+  {
+   "title": "シャングリラ・フロンティア",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151970-xtIx3VqEk02X.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 112
+  },
+  {
+   "title": "シャングリラ・フロンティア 2nd season",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-eFad4szofm8d.png",
+   "rating": 5,
+   "review": "",
+   "order": 113
+  },
+  {
+   "title": "シュタインズ・ゲート",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-tIUXF2gfU8Sg.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 114
+  },
+  {
+   "title": "Robotics;Notes",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx13599-jpZpumSDPJM0.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 115
+  },
+  {
+   "title": "片田舎のおっさん、剣聖になる",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179955-e4UPTow92B1O.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 116
+  },
+  {
+   "title": "機動戦士ガンダムSEED FREEDOM",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134761-UCVG3V6t6gJq.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 117
+  },
+  {
+   "title": "ノーゲーム・ノーライフ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 118
+  },
+  {
+   "title": "ご注文はうさぎですか？",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20517-SNNUtav2knou.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 119
+  },
+  {
+   "title": "慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105156-ZVtxISdoUqnY.png",
+   "rating": 5,
+   "review": "",
+   "order": 120
+  },
+  {
+   "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97873-jYQ3dPoaOLxX.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 121
+  },
+  {
+   "title": "勇者王ガオガイガー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx890-opmekyhFfZO9.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 122
+  },
+  {
+   "title": "俺だけレベルアップな件",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-it355ZgzquUd.png",
+   "rating": 4,
+   "review": "",
+   "order": 123
+  },
+  {
+   "title": "鋼の錬金術師",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-zjmixZ428Mwv.png",
+   "rating": 4,
+   "review": "",
+   "order": 124
+  },
+  {
+   "title": "らき☆すた",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1887-P36Pucd4qKji.png",
+   "rating": 4,
+   "review": "",
+   "order": 125
+  },
+  {
+   "title": "TIGER & BUNNY",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9941-ixTUsgXCg2AI.jpg",
+   "rating": 5,
+   "review": "",
+   "order": 126
+  },
+  {
+   "title": "魔法少女まどか☆マギカ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-QnUGwlwwnsuN.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 127
+  },
+  {
+   "title": "機動戦士Gundam GQuuuuuuX",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 128
+  },
+  {
+   "title": "機神咆吼デモンベイン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/766.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 129
+  },
+  {
+   "title": "交響詩篇エウレカセブン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx237-P1YEQQFqZ1An.jpg",
+   "rating": 2,
+   "review": "",
+   "order": 130
+  },
+  {
+   "title": "機動戦士ガンダム 水星の魔女",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139274-0NJTOKWHdDew.png",
+   "rating": 5,
+   "review": "",
+   "order": 131
+  },
+  {
+   "title": "このヒーラー、めんどくさい",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132351-1zyxbcJ86aoB.png",
+   "rating": 5,
+   "review": "",
+   "order": 132
+  },
+  {
+   "title": "ひろがるスカイ！プリキュア",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157883-ib9fXLLjUy5m.png",
+   "rating": 4,
+   "review": "",
+   "order": 133
+  },
+  {
+   "title": "天元突破グレンラガン 紅蓮篇",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4107-WaS60WNsKZuu.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 134
+  },
+  {
+   "title": "天元突破グレンラガン 螺巌篇",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4565-FbFYEBTJSPyr.png",
+   "rating": 3,
+   "review": "",
+   "order": 135
+  },
+  {
+   "title": "オオカミさんと七人の仲間たち",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7769-4SPih8uS2E4j.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 136
+  },
+  {
+   "title": "おおかみこどもの雨と雪",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
+   "rating": 3,
+   "review": "",
+   "order": 137
+  },
+  {
+   "title": "サマータイムレンダ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129201-HJBauga2be8I.png",
+   "rating": 4,
+   "review": "",
+   "order": 138
+  },
+  {
+   "title": "天気の子",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106286-5COcpd0J9VbL.png",
+   "rating": 4,
+   "review": "",
+   "order": 139
+  },
+  {
+   "title": "すずめの戸締まり",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 140
+  },
+  {
+   "title": "バケモノの子",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20981-D6PAJAOC4jPc.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 141
+  },
+  {
+   "title": "サマーウォーズ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5681-3DmxUVn3grD0.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 142
+  },
+  {
+   "title": "時をかける少女",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2236-tH5fWFkHyVGg.png",
+   "rating": 3,
+   "review": "",
+   "order": 143
+  },
+  {
+   "title": "コードギアス 反逆のルルーシュ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-hsmWM2ydNm1m.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 144
+  },
+  {
+   "title": "未来のミライ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100749-7Tptl7EAMAWH.jpg",
+   "rating": 3,
+   "review": "",
+   "order": 145
+  },
+  {
+   "title": "ぐらんぶる",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100922-uxEhaCsqMMp3.png",
+   "rating": 5,
+   "review": "",
+   "order": 146
+  },
+  {
+   "title": "グレネーダー 〜ほほえみの閃士〜",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx297-Sg9F6AkZczuH.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 147
+  },
+  {
+   "title": "ReLIFE",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21049-4AHSLeiDE9eg.png",
+   "rating": 4,
+   "review": "",
+   "order": 148
+  },
+  {
+   "title": "とらドラ！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg",
+   "rating": 4,
+   "review": "",
+   "order": 149
+  }
+ ]
 }
