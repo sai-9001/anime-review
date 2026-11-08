@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:10:30.378Z",
- "count": 148,
+ "generatedAt": "2026-11-08T11:15:24.997Z",
+ "count": 149,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1186,6 +1186,14 @@
    "review": "",
    "year": 2008,
    "order": 148
+  },
+  {
+   "title": "魔法少女リリカルなのは",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx76-wRwZobrx9MPj.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2004,
+   "order": 149
   }
  ]
 }
