@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:29:55.737Z",
- "count": 269,
+ "generatedAt": "2026-11-08T23:30:35.131Z",
+ "count": 270,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2154,6 +2154,14 @@
    "review": "",
    "year": 2016,
    "order": 269
+  },
+  {
+   "title": "アマガミSS",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx8676-rpRpE8lD4tbw.png",
+   "rating": 5,
+   "review": "",
+   "year": 2010,
+   "order": 270
   }
  ]
 }
