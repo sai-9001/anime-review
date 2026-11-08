@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:13:01.307Z",
- "count": 186,
+ "generatedAt": "2026-11-08T12:13:53.175Z",
+ "count": 187,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1490,6 +1490,14 @@
    "review": "",
    "year": 2012,
    "order": 186
+  },
+  {
+   "title": "聖剣の刀鍛冶（ブラックスミス）",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5940.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2009,
+   "order": 187
   }
  ]
 }
