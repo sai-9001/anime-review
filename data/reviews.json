@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T11:17:46.067Z",
- "count": 151,
+ "generatedAt": "2026-11-08T11:17:54.929Z",
+ "count": 152,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1204,12 +1204,20 @@
    "order": 150
   },
   {
+   "title": "魔法少女リリカルなのはＡ’ｓ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx77-SwBCj7R1enWi.png",
+   "rating": 4,
+   "review": "",
+   "year": 2005,
+   "order": 151
+  },
+  {
    "title": "魔法少女リリカルなのはStrikerS",
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1915-IKthftm6s36b.png",
    "rating": 3,
    "review": "",
    "year": 2007,
-   "order": 151
+   "order": 152
   }
  ]
 }
