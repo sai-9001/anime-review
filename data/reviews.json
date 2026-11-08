@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T15:07:44.056Z",
- "count": 235,
+ "generatedAt": "2026-11-08T15:11:26.161Z",
+ "count": 236,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1882,6 +1882,14 @@
    "review": "",
    "year": 2011,
    "order": 235
+  },
+  {
+   "title": "聖痕のクェイサー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6500-RQxUgnApAqqn.png",
+   "rating": 2,
+   "review": "",
+   "year": 2010,
+   "order": 236
   }
  ]
 }
