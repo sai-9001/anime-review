@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:35:07.978Z",
- "count": 276,
+ "generatedAt": "2026-11-08T23:47:25.017Z",
+ "count": 277,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2210,6 +2210,14 @@
    "review": "",
    "year": 2009,
    "order": 276
+  },
+  {
+   "title": "Angel Beats!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6547-SYexAn5aFyss.png",
+   "rating": 3,
+   "review": "",
+   "year": 2010,
+   "order": 277
   }
  ]
 }
