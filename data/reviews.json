@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T22:34:56.164Z",
- "count": 241,
+ "generatedAt": "2026-11-08T22:53:05.282Z",
+ "count": 242,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1930,6 +1930,14 @@
    "review": "",
    "year": 2025,
    "order": 241
+  },
+  {
+   "title": "わんだふるぷりきゅあ！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171030-U7zjkqv8pQFq.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2024,
+   "order": 242
   }
  ]
 }
