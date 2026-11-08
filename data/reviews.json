@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T12:28:38.990Z",
- "count": 198,
+ "generatedAt": "2026-11-08T12:31:00.475Z",
+ "count": 199,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1586,6 +1586,14 @@
    "review": "",
    "year": 2025,
    "order": 198
+  },
+  {
+   "title": "恋と選挙とチョコレート",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12175-VWvC1YwEKGmc.png",
+   "rating": 3,
+   "review": "",
+   "year": 2012,
+   "order": 199
   }
  ]
 }
