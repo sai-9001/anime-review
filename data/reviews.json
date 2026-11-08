@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:00:46.529Z",
- "count": 246,
+ "generatedAt": "2026-11-08T23:06:29.166Z",
+ "count": 247,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1970,6 +1970,14 @@
    "review": "",
    "year": 2023,
    "order": 246
+  },
+  {
+   "title": "デジモンテイマーズ 暴走デジモン特急",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3033.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2002,
+   "order": 247
   }
  ]
 }
