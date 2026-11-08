@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:24:54.222Z",
- "count": 262,
+ "generatedAt": "2026-11-08T23:26:38.723Z",
+ "count": 263,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2098,6 +2098,14 @@
    "review": "",
    "year": 1992,
    "order": 262
+  },
+  {
+   "title": "あかね色に染まる坂",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4744-ojHpFzrbKc3j.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2008,
+   "order": 263
   }
  ]
 }
