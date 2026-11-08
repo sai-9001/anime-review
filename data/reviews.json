@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T15:14:57.484Z",
- "count": 238,
+ "generatedAt": "2026-11-08T15:16:18.690Z",
+ "count": 239,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1906,6 +1906,14 @@
    "review": "",
    "year": 1987,
    "order": 238
+  },
+  {
+   "title": "冥王計画ゼオライマー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1832-1n0THynKNW1F.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 1988,
+   "order": 239
   }
  ]
 }
