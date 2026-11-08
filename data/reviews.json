@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T15:03:42.546Z",
- "count": 232,
+ "generatedAt": "2026-11-08T15:05:32.529Z",
+ "count": 233,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -1858,6 +1858,14 @@
    "review": "",
    "year": 2023,
    "order": 232
+  },
+  {
+   "title": "桜Trick",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20047-QcFqHoZNuCIH.png",
+   "rating": 4,
+   "review": "",
+   "year": 2014,
+   "order": 233
   }
  ]
 }
