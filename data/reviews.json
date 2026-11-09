@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:31:36.664Z",
- "count": 335,
+ "generatedAt": "2026-11-09T02:32:31.739Z",
+ "count": 336,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2682,6 +2682,14 @@
    "review": "",
    "year": 2012,
    "order": 335
+  },
+  {
+   "title": "ご愁傷さま二ノ宮くん",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2494-p4kBdDB60i7E.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2007,
+   "order": 336
   }
  ]
 }
