@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T00:09:59.332Z",
- "count": 279,
+ "generatedAt": "2026-11-09T00:10:16.800Z",
+ "count": 280,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2234,6 +2234,14 @@
    "review": "",
    "year": 2011,
    "order": 279
+  },
+  {
+   "title": "名探偵コナン エピソード\"ONE\" 小さくなった名探偵",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98604-rf0L8MoJ8FJB.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2016,
+   "order": 280
   }
  ]
 }
