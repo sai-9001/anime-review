@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:37:10.270Z",
- "count": 315,
+ "generatedAt": "2026-11-09T01:38:04.661Z",
+ "count": 316,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2522,6 +2522,14 @@
    "review": "",
    "year": 2014,
    "order": 315
+  },
+  {
+   "title": "鍵姫物語 永久アリス輪舞曲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx577-USleBujE1aLO.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2006,
+   "order": 316
   }
  ]
 }
