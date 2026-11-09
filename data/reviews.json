@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:33:00.025Z",
- "count": 435,
+ "generatedAt": "2026-11-09T11:34:03.023Z",
+ "count": 436,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3482,6 +3482,14 @@
    "review": "",
    "year": 2008,
    "order": 435
+  },
+  {
+   "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png",
+   "rating": 3,
+   "review": "",
+   "year": 2023,
+   "order": 436
   }
  ]
 }
