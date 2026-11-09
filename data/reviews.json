@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:57:24.612Z",
- "count": 354,
+ "generatedAt": "2026-11-09T02:58:10.855Z",
+ "count": 355,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2834,6 +2834,14 @@
    "review": "",
    "year": 2009,
    "order": 354
+  },
+  {
+   "title": "デジモンアドベンチャー０２",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1313-oCvzzU6fiCZB.png",
+   "rating": 4,
+   "review": "",
+   "year": 2000,
+   "order": 355
   }
  ]
 }
