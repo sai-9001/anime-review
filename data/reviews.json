@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:34:38.041Z",
- "count": 337,
+ "generatedAt": "2026-11-09T02:36:14.931Z",
+ "count": 338,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2698,6 +2698,14 @@
    "review": "",
    "year": 2016,
    "order": 337
+  },
+  {
+   "title": "月曜日のたわわ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97716-KEnqtszrv2vw.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2016,
+   "order": 338
   }
  ]
 }
