@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:22:12.127Z",
- "count": 325,
+ "generatedAt": "2026-11-09T02:23:00.500Z",
+ "count": 326,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2602,6 +2602,14 @@
    "review": "",
    "year": 2006,
    "order": 325
+  },
+  {
+   "title": "境界線上のホライゾン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10456-HgdpzfTdg7XE.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2011,
+   "order": 326
   }
  ]
 }
