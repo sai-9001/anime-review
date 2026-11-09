@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:30:11.909Z",
- "count": 368,
+ "generatedAt": "2026-11-09T03:31:33.334Z",
+ "count": 369,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2946,6 +2946,14 @@
    "review": "",
    "year": 2009,
    "order": 368
+  },
+  {
+   "title": "まおゆう魔王勇者",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14833-6M3yEmu4SJkH.png",
+   "rating": 3,
+   "review": "",
+   "year": 2013,
+   "order": 369
   }
  ]
 }
