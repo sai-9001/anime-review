@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:04:02.220Z",
- "count": 360,
+ "generatedAt": "2026-11-09T03:04:48.763Z",
+ "count": 361,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2882,6 +2882,14 @@
    "review": "",
    "year": 2007,
    "order": 360
+  },
+  {
+   "title": "謎の彼女X",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12467-FtvouFLt2Vkr.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2012,
+   "order": 361
   }
  ]
 }
