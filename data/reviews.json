@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:48:28.048Z",
- "count": 409,
+ "generatedAt": "2026-11-09T06:48:46.791Z",
+ "count": 410,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3274,6 +3274,14 @@
    "review": "",
    "year": 1995,
    "order": 409
+  },
+  {
+   "title": "マクロスF",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3572-qYJhokKdsnZR.png",
+   "rating": 3,
+   "review": "",
+   "year": 2008,
+   "order": 410
   }
  ]
 }
