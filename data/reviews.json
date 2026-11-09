@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:17:59.500Z",
- "count": 422,
+ "generatedAt": "2026-11-09T11:18:16.265Z",
+ "count": 423,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3378,6 +3378,14 @@
    "review": "",
    "year": 1988,
    "order": 422
+  },
+  {
+   "title": "ポケットモンスター ミュウツーの逆襲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx528-HIz7955MvEnN.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 1998,
+   "order": 423
   }
  ]
 }
