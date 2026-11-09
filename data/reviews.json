@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:20:20.652Z",
- "count": 323,
+ "generatedAt": "2026-11-09T02:21:11.558Z",
+ "count": 324,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2586,6 +2586,14 @@
    "review": "",
    "year": 1996,
    "order": 323
+  },
+  {
+   "title": "機動天使エンジェリックレイヤー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx52-i6aTXaa4w1QA.png",
+   "rating": 3,
+   "review": "",
+   "year": 2001,
+   "order": 324
   }
  ]
 }
