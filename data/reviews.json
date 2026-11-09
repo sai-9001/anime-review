@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:21:07.986Z",
- "count": 301,
+ "generatedAt": "2026-11-09T01:22:52.151Z",
+ "count": 302,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2410,6 +2410,14 @@
    "review": "",
    "year": 2024,
    "order": 301
+  },
+  {
+   "title": "戦×恋",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109321-uRusf0ug6AQ0.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2019,
+   "order": 302
   }
  ]
 }
