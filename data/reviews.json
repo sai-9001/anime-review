@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:33:08.354Z",
- "count": 310,
+ "generatedAt": "2026-11-09T01:34:48.144Z",
+ "count": 311,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2482,6 +2482,14 @@
    "review": "",
    "year": 2008,
    "order": 310
+  },
+  {
+   "title": "織田信奈の野望",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11933-Id1hl7CdxlAO.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2012,
+   "order": 311
   }
  ]
 }
