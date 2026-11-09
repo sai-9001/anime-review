@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:43:18.180Z",
- "count": 319,
+ "generatedAt": "2026-11-09T01:53:14.606Z",
+ "count": 320,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2554,6 +2554,14 @@
    "review": "",
    "year": 2004,
    "order": 319
+  },
+  {
+   "title": "帰宅部活動記録",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18495.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2013,
+   "order": 320
   }
  ]
 }
