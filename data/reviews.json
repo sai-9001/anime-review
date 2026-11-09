@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T00:18:53.232Z",
- "count": 289,
+ "generatedAt": "2026-11-09T00:19:18.889Z",
+ "count": 290,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2314,6 +2314,14 @@
    "review": "",
    "year": 2003,
    "order": 289
+  },
+  {
+   "title": "D.C.II S.S. ～ダ・カーポII セカンドシーズン～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3627-wbFO19SGqK9e.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2008,
+   "order": 290
   }
  ]
 }
