@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:20:17.098Z",
- "count": 428,
+ "generatedAt": "2026-11-09T11:23:31.021Z",
+ "count": 429,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3426,6 +3426,14 @@
    "review": "",
    "year": 2007,
    "order": 428
+  },
+  {
+   "title": "名探偵コナン ハロウィンの花嫁",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142219-Nu9bWFhIKn0q.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2022,
+   "order": 429
   }
  ]
 }
