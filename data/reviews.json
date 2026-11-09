@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:42:08.769Z",
- "count": 443,
+ "generatedAt": "2026-11-09T11:48:08.932Z",
+ "count": 444,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3546,6 +3546,14 @@
    "review": "",
    "year": 2013,
    "order": 443
+  },
+  {
+   "title": "ロマンティック・キラー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153930-uTRxaIcNa26E.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2022,
+   "order": 444
   }
  ]
 }
