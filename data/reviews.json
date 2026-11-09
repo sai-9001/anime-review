@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:18:16.265Z",
- "count": 423,
+ "generatedAt": "2026-11-09T11:18:33.016Z",
+ "count": 424,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3386,6 +3386,14 @@
    "review": "",
    "year": 1998,
    "order": 423
+  },
+  {
+   "title": "ガンダムビルドファイターズ GMの逆襲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99732-acHUbWeYBRKB.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2017,
+   "order": 424
   }
  ]
 }
