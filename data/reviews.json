@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:11:48.826Z",
- "count": 363,
+ "generatedAt": "2026-11-09T03:13:38.419Z",
+ "count": 364,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2906,6 +2906,14 @@
    "review": "",
    "year": 2014,
    "order": 363
+  },
+  {
+   "title": "鬼灯の冷徹",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20431-01EHi0CpWKx0.png",
+   "rating": 2,
+   "review": "",
+   "year": 2014,
+   "order": 364
   }
  ]
 }
