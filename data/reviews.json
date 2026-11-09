@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:47:44.108Z",
- "count": 408,
+ "generatedAt": "2026-11-09T06:48:28.048Z",
+ "count": 409,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3266,6 +3266,14 @@
    "review": "",
    "year": 1994,
    "order": 408
+  },
+  {
+   "title": "マクロス7 -銀河がオレを呼んでいる!-",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1400-LU1KzLIsRcI8.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 1995,
+   "order": 409
   }
  ]
 }
