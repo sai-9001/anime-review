@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:47:43.553Z",
- "count": 386,
+ "generatedAt": "2026-11-09T03:48:39.031Z",
+ "count": 387,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3090,6 +3090,14 @@
    "review": "",
    "year": 2008,
    "order": 386
+  },
+  {
+   "title": "ギフト～ eternal rainbow",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1581-7FpczGCrgGBf.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2006,
+   "order": 387
   }
  ]
 }
