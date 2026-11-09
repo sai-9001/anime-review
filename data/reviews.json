@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:04:48.763Z",
- "count": 361,
+ "generatedAt": "2026-11-09T03:05:24.597Z",
+ "count": 362,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2890,6 +2890,14 @@
    "review": "",
    "year": 2012,
    "order": 361
+  },
+  {
+   "title": "ななついろ★ドロップス",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1688-Udeb9mYUUDl2.jpg",
+   "rating": 1,
+   "review": "",
+   "year": 2007,
+   "order": 362
   }
  ]
 }
