@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:56:03.592Z",
- "count": 353,
+ "generatedAt": "2026-11-09T02:57:24.612Z",
+ "count": 354,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2826,6 +2826,14 @@
    "review": "",
    "year": 1991,
    "order": 353
+  },
+  {
+   "title": "けんぷファー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6205-3waXg2FNaAFL.png",
+   "rating": 4,
+   "review": "",
+   "year": 2009,
+   "order": 354
   }
  ]
 }
