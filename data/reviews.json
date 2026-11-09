@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:29:50.392Z",
- "count": 333,
+ "generatedAt": "2026-11-09T02:30:57.491Z",
+ "count": 334,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2666,6 +2666,14 @@
    "review": "",
    "year": 2005,
    "order": 333
+  },
+  {
+   "title": "極上生徒会",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/456.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2005,
+   "order": 334
   }
  ]
 }
