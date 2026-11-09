@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:19:28.121Z",
- "count": 300,
+ "generatedAt": "2026-11-09T01:21:07.986Z",
+ "count": 301,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2402,6 +2402,14 @@
    "review": "",
    "year": 2024,
    "order": 300
+  },
+  {
+   "title": "姫様“拷問”の時間です",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166522-pUnBSDFzs9DD.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2024,
+   "order": 301
   }
  ]
 }
