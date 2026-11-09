@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:41:17.384Z",
- "count": 382,
+ "generatedAt": "2026-11-09T03:42:28.024Z",
+ "count": 383,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3058,6 +3058,14 @@
    "review": "",
    "year": 2012,
    "order": 382
+  },
+  {
+   "title": "B型H系",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7817-6kYE5LRNoL97.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2010,
+   "order": 383
   }
  ]
 }
