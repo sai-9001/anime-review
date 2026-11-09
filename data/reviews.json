@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T00:10:16.800Z",
- "count": 280,
+ "generatedAt": "2026-11-09T00:11:36.243Z",
+ "count": 281,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2242,6 +2242,14 @@
    "review": "",
    "year": 2016,
    "order": 280
+  },
+  {
+   "title": "Fate/stay night",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png",
+   "rating": 4,
+   "review": "",
+   "year": 2006,
+   "order": 281
   }
  ]
 }
