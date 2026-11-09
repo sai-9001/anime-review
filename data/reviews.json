@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:33:41.812Z",
- "count": 372,
+ "generatedAt": "2026-11-09T03:34:26.558Z",
+ "count": 373,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2978,6 +2978,14 @@
    "review": "",
    "year": 2005,
    "order": 372
+  },
+  {
+   "title": "まもって守護月天！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/626.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 1998,
+   "order": 373
   }
  ]
 }
