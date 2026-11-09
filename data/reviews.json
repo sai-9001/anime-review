@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:41:15.941Z",
- "count": 442,
+ "generatedAt": "2026-11-09T11:42:08.769Z",
+ "count": 443,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3538,6 +3538,14 @@
    "review": "",
    "year": 2024,
    "order": 442
+  },
+  {
+   "title": "名探偵コナン 絶海の探偵(プライベート・アイ)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14735-RIyq7XzIIzcc.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2013,
+   "order": 443
   }
  ]
 }
