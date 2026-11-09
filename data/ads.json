@@ -1,0 +1,39 @@
+{
+ "version": 1,
+ "ads": [
+  {
+   "type": "banner",
+   "href": "https://px.a8.net/svt/ejp?a8mat=3N5X02+8WBDMY+4AHY+609HT",
+   "image": {
+    "src": "https://www23.a8.net/svt/bgt?aid=220305746538&wid=008&eno=01&mid=s00000020023001009000&mc=1",
+    "width": 234,
+    "height": 60
+   },
+   "alt": "広告",
+   "pixel": "https://www14.a8.net/0.gif?a8mat=3N5X02+8WBDMY+4AHY+609HT"
+  },
+  {
+   "type": "product",
+   "href": "https://rpx.a8.net/svt/ejp?a8mat=3N20UV+1UOPXM+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00q0724.2bo11c45.g00q0724.2bo12179%2Fa22012419536_3N20UV_1UOPXM_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fbook%252F18464556%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbook%252Fi%252F21829604%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283",
+   "image": {
+    "src": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1483/2100014731483.jpg?_ex=128x128",
+    "width": 128,
+    "height": 128
+   },
+   "title": "【全巻】 葬送のフリーレン 1-15巻セット （少年サンデーコミックス） [ 山田 鐘人 ]",
+   "price": "8965円",
+   "priceAsOf": "2026/11/9 20:00時点",
+   "reviews": "感想(7件)",
+   "pixel": "https://www13.a8.net/0.gif?a8mat=3N20UV+1UOPXM+2HOM+BWGDT"
+  },
+  {
+   "type": "banner",
+   "href": "https://rpx.a8.net/svt/ejp?a8mat=3N20UV+1UOPXM+2HOM+5YZ75&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0ea62065.34400275.0ea62066.204f04c0%2Fa22012419536_3N20UV_1UOPXM_2HOM_5YZ75%3Fpc%3Dhttp%253A%252F%252Fwww.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252F",
+   "image": {
+    "src": "https://hbb.afl.rakuten.co.jp/hsb/0eb4bbad.93f29c77.0eb4bbaa.95151395/"
+   },
+   "alt": "広告",
+   "pixel": "https://www16.a8.net/0.gif?a8mat=3N20UV+1UOPXM+2HOM+5YZ75"
+  }
+ ]
+}
