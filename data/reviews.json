@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T04:00:36.077Z",
- "count": 396,
+ "generatedAt": "2026-11-09T04:00:52.614Z",
+ "count": 397,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3170,6 +3170,14 @@
    "review": "",
    "year": 2000,
    "order": 396
+  },
+  {
+   "title": "ラブ ひな Again",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190-oapgxvKLl3uW.png",
+   "rating": 3,
+   "review": "",
+   "year": 2002,
+   "order": 397
   }
  ]
 }
