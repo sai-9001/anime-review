@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:56:10.881Z",
- "count": 391,
+ "generatedAt": "2026-11-09T03:57:18.766Z",
+ "count": 392,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3130,6 +3130,14 @@
    "review": "",
    "year": 2003,
    "order": 391
+  },
+  {
+   "title": "ToHeart",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx472-xH5Ia6fpPE6c.png",
+   "rating": 3,
+   "review": "",
+   "year": 1999,
+   "order": 392
   }
  ]
 }
