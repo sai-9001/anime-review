@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:26:36.404Z",
- "count": 329,
+ "generatedAt": "2026-11-09T02:27:22.604Z",
+ "count": 330,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2634,6 +2634,14 @@
    "review": "",
    "year": 2007,
    "order": 329
+  },
+  {
+   "title": "結婚するって、本当ですか",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165790-OwIZI9ArGR4Q.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2024,
+   "order": 330
   }
  ]
 }
