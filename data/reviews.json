@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:54:14.751Z",
- "count": 322,
+ "generatedAt": "2026-11-09T02:20:20.652Z",
+ "count": 323,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2578,6 +2578,14 @@
    "review": "",
    "year": 2005,
    "order": 322
+  },
+  {
+   "title": "機動新世紀ガンダムX",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx92-QICvHYE9HKyq.png",
+   "rating": 4,
+   "review": "",
+   "year": 1996,
+   "order": 323
   }
  ]
 }
