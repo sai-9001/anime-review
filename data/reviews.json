@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:42:52.770Z",
- "count": 345,
+ "generatedAt": "2026-11-09T02:43:15.076Z",
+ "count": 346,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2762,6 +2762,14 @@
    "review": "",
    "year": 2003,
    "order": 345
+  },
+  {
+   "title": "ストラトス・フォー アドヴァンス",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/423.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2005,
+   "order": 346
   }
  ]
 }
