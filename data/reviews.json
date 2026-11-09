@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:28:04.081Z",
- "count": 308,
+ "generatedAt": "2026-11-09T01:30:45.385Z",
+ "count": 309,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2466,6 +2466,14 @@
    "review": "",
    "year": 1989,
    "order": 308
+  },
+  {
+   "title": "おジャ魔女どれみ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx350-iRi1NOntsTnG.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 1999,
+   "order": 309
   }
  ]
 }
