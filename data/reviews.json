@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:03:22.821Z",
- "count": 359,
+ "generatedAt": "2026-11-09T03:04:02.220Z",
+ "count": 360,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2874,6 +2874,14 @@
    "review": "",
    "year": 2002,
    "order": 359
+  },
+  {
+   "title": "ナイトウィザード The ANIMATION",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2970-TVX0Wxw69TCl.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2007,
+   "order": 360
   }
  ]
 }
