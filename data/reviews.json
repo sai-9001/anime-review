@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:47:26.464Z",
- "count": 385,
+ "generatedAt": "2026-11-09T03:47:43.553Z",
+ "count": 386,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3082,6 +3082,14 @@
    "review": "",
    "year": 2007,
    "order": 385
+  },
+  {
+   "title": "ef - a tale of melodies.",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4789-zpt5UsK70dJh.png",
+   "rating": 3,
+   "review": "",
+   "year": 2008,
+   "order": 386
   }
  ]
 }
