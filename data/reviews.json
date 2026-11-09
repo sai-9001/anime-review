@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:40:04.577Z",
- "count": 440,
+ "generatedAt": "2026-11-09T11:40:25.262Z",
+ "count": 441,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3522,6 +3522,14 @@
    "review": "",
    "year": 1988,
    "order": 440
+  },
+  {
+   "title": "トップをねらえ2！DIEBUSTER",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1002-W7vQj8WSzAxf.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2004,
+   "order": 441
   }
  ]
 }
