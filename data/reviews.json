@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:49:13.331Z",
- "count": 411,
+ "generatedAt": "2026-11-09T06:49:42.757Z",
+ "count": 412,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3290,6 +3290,14 @@
    "review": "",
    "year": 2011,
    "order": 411
+  },
+  {
+   "title": "劇場版 マクロスF 虚空歌姫 ~イツワリノウタヒメ~",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5310-XvFJTkCobkvk.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2009,
+   "order": 412
   }
  ]
 }
