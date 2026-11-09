@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:18:33.016Z",
- "count": 424,
+ "generatedAt": "2026-11-09T11:19:00.255Z",
+ "count": 425,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3394,6 +3394,14 @@
    "review": "",
    "year": 2017,
    "order": 424
+  },
+  {
+   "title": "デジモンアドベンチャー02 ディアボロモンの逆襲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2398.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2001,
+   "order": 425
   }
  ]
 }
