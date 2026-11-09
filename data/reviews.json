@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:19:00.255Z",
- "count": 425,
+ "generatedAt": "2026-11-09T11:19:25.320Z",
+ "count": 426,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3402,6 +3402,14 @@
    "review": "",
    "year": 2001,
    "order": 425
+  },
+  {
+   "title": "劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106287-THH8DMCFuVNc.png",
+   "rating": 2,
+   "review": "",
+   "year": 2019,
+   "order": 426
   }
  ]
 }
