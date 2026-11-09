@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:40:14.136Z",
- "count": 380,
+ "generatedAt": "2026-11-09T03:40:44.949Z",
+ "count": 381,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3042,6 +3042,14 @@
    "review": "",
    "year": 2002,
    "order": 380
+  },
+  {
+   "title": "りぜるまいん",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/197.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2002,
+   "order": 381
   }
  ]
 }
