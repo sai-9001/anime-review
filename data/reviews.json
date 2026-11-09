@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:28:23.385Z",
- "count": 331,
+ "generatedAt": "2026-11-09T02:28:56.108Z",
+ "count": 332,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2650,6 +2650,14 @@
    "review": "",
    "year": 2008,
    "order": 331
+  },
+  {
+   "title": "けものフレンズ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87496-pB2CXbFGucn0.png",
+   "rating": 1,
+   "review": "",
+   "year": 2017,
+   "order": 332
   }
  ]
 }
