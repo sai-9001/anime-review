@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:32:31.739Z",
- "count": 336,
+ "generatedAt": "2026-11-09T02:34:38.041Z",
+ "count": 337,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2690,6 +2690,14 @@
    "review": "",
    "year": 2007,
    "order": 336
+  },
+  {
+   "title": "この美術部には問題がある!",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21457-MzWktnoD67PO.png",
+   "rating": 2,
+   "review": "",
+   "year": 2016,
+   "order": 337
   }
  ]
 }
