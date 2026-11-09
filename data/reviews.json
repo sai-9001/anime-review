@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:42:10.167Z",
- "count": 344,
+ "generatedAt": "2026-11-09T02:42:52.770Z",
+ "count": 345,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2754,6 +2754,14 @@
    "review": "",
    "year": 2010,
    "order": 344
+  },
+  {
+   "title": "ストラトス・フォー",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b421-tRLEEXt9asEv.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2003,
+   "order": 345
   }
  ]
 }
