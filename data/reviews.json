@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:38:08.639Z",
- "count": 406,
+ "generatedAt": "2026-11-09T06:44:44.743Z",
+ "count": 407,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3250,6 +3250,14 @@
    "review": "",
    "year": 2013,
    "order": 406
+  },
+  {
+   "title": "少女☆歌劇 レヴュー・スタァライト",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98658-Xz8uliDO7dzZ.png",
+   "rating": 3,
+   "review": "",
+   "year": 2018,
+   "order": 407
   }
  ]
 }
