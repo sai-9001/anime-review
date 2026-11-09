@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:24:16.055Z",
- "count": 327,
+ "generatedAt": "2026-11-09T02:25:58.239Z",
+ "count": 328,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2618,6 +2618,14 @@
    "review": "",
    "year": 2006,
    "order": 327
+  },
+  {
+   "title": "さくら荘のペットな彼女",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13759-xNf0gJK4Axt2.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2012,
+   "order": 328
   }
  ]
 }
