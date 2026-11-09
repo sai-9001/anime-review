@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T01:24:03.297Z",
- "count": 304,
+ "generatedAt": "2026-11-09T01:24:33.977Z",
+ "count": 305,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2434,6 +2434,14 @@
    "review": "",
    "year": 2013,
    "order": 304
+  },
+  {
+   "title": "うたわれるもの 偽りの仮面",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21218-GdneVnAwDQHy.png",
+   "rating": 4,
+   "review": "",
+   "year": 2015,
+   "order": 305
   }
  ]
 }
