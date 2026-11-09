@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:40:44.949Z",
- "count": 381,
+ "generatedAt": "2026-11-09T03:41:17.384Z",
+ "count": 382,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3050,6 +3050,14 @@
    "review": "",
    "year": 2002,
    "order": 381
+  },
+  {
+   "title": "輪廻のラグランジェ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11227-dMDJFoq6Rb9j.png",
+   "rating": 3,
+   "review": "",
+   "year": 2012,
+   "order": 382
   }
  ]
 }
