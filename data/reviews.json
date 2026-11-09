@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:27:22.604Z",
- "count": 330,
+ "generatedAt": "2026-11-09T02:28:23.385Z",
+ "count": 331,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2642,6 +2642,14 @@
    "review": "",
    "year": 2024,
    "order": 330
+  },
+  {
+   "title": "ケメコデラックス！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3464.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2008,
+   "order": 331
   }
  ]
 }
