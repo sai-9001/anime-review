@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T00:13:48.519Z",
- "count": 283,
+ "generatedAt": "2026-11-09T00:14:26.518Z",
+ "count": 284,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2266,6 +2266,14 @@
    "review": "",
    "year": 2004,
    "order": 283
+  },
+  {
+   "title": "Canvas2 ～虹色のスケッチ～",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/694.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2005,
+   "order": 284
   }
  ]
 }
