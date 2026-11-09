@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T04:00:52.614Z",
- "count": 397,
+ "generatedAt": "2026-11-09T04:02:24.125Z",
+ "count": 398,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3178,6 +3178,14 @@
    "review": "",
    "year": 2002,
    "order": 397
+  },
+  {
+   "title": "X−エックス− (TV)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b156-MSqEz70iYng4.png",
+   "rating": 4,
+   "review": "",
+   "year": 2001,
+   "order": 398
   }
  ]
 }
