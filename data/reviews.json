@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T23:48:02.340Z",
- "count": 278,
+ "generatedAt": "2026-11-09T00:09:59.332Z",
+ "count": 279,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2226,6 +2226,14 @@
    "review": "",
    "year": 2003,
    "order": 278
+  },
+  {
+   "title": "ドラゴンボール エピソード オブ バーダック",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12231.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2011,
+   "order": 279
   }
  ]
 }
