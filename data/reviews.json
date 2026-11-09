@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T03:13:38.419Z",
- "count": 364,
+ "generatedAt": "2026-11-09T03:15:32.934Z",
+ "count": 365,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2914,6 +2914,14 @@
    "review": "",
    "year": 2014,
    "order": 364
+  },
+  {
+   "title": "ひげを剃る。そして女子高生を拾う。",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114232-2rm50ZD1cQgP.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2021,
+   "order": 365
   }
  ]
 }
