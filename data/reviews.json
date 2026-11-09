@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:53:33.692Z",
- "count": 414,
+ "generatedAt": "2026-11-09T06:54:08.932Z",
+ "count": 415,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3314,6 +3314,14 @@
    "review": "",
    "year": 2024,
    "order": 414
+  },
+  {
+   "title": "キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183414-iLYSNzsQcIFI.png",
+   "rating": 4,
+   "review": "",
+   "year": 2025,
+   "order": 415
   }
  ]
 }
