@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:54:08.932Z",
- "count": 415,
+ "generatedAt": "2026-11-09T07:00:06.943Z",
+ "count": 416,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3322,6 +3322,14 @@
    "review": "",
    "year": 2025,
    "order": 415
+  },
+  {
+   "title": "クレヨンしんちゃん外伝 エイリアン vs. しんのすけ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98092-O3b1CNKixFut.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2016,
+   "order": 416
   }
  ]
 }
