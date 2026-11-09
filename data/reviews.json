@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:19:48.334Z",
- "count": 427,
+ "generatedAt": "2026-11-09T11:20:17.098Z",
+ "count": 428,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3418,6 +3418,14 @@
    "review": "",
    "year": 2005,
    "order": 427
+  },
+  {
+   "title": "獣装機攻ダンクーガノヴァ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1991.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2007,
+   "order": 428
   }
  ]
 }
