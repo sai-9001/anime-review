@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:37:54.958Z",
- "count": 439,
+ "generatedAt": "2026-11-09T11:40:04.577Z",
+ "count": 440,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3514,6 +3514,14 @@
    "review": "",
    "year": 1998,
    "order": 439
+  },
+  {
+   "title": "トップをねらえ! GunBuster",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx949-LDCFxDufSwTQ.png",
+   "rating": 3,
+   "review": "",
+   "year": 1988,
+   "order": 440
   }
  ]
 }
