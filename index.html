@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="dark light">
 <meta name="theme-color" content="#0b1220" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#f3f6fc" media="(prefers-color-scheme: light)">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' https://s4.anilist.co https://img.anilist.co data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' https://s4.anilist.co https://img.anilist.co https://*.a8.net https://thumbnail.image.rakuten.co.jp https://hbb.afl.rakuten.co.jp data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'self'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="no-referrer">
 <title>Anime Log レビュー</title>
 <link rel="icon" type="image/png" href="assets/logo.png">
@@ -80,7 +80,7 @@ select{height:44px;border:1px solid var(--line);background:var(--panel);border-r
 
 /* 年見出し */
 .year{margin-bottom:8px;scroll-margin-top:calc(var(--bar-h) + 6px)}
-.year-head{position:sticky;top:var(--bar-h);z-index:5;display:flex;align-items:baseline;gap:10px;margin:18px -16px 12px;padding:8px 16px;font-size:20px;font-weight:800;background:linear-gradient(90deg,var(--bar-bg),transparent)}
+.year-head{position:sticky;top:var(--bar-h);z-index:5;display:flex;align-items:baseline;gap:10px;margin:18px -16px 12px;padding:8px 16px;font-size:20px;font-weight:800;background:var(--bar-bg);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
 .year-head small{color:var(--muted);font-size:12px;font-weight:500}
 
 /* グリッド */
@@ -151,6 +151,20 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
   .dgrid{grid-template-columns:220px 1fr;gap:26px}
   .dimg{margin:0;width:100%}
 }
+/* 広告（PR） */
+.ads{margin:34px 0 0;padding:16px 14px 14px;border:1px solid var(--line);border-radius:var(--r);background:var(--panel);text-align:center}
+.ads[hidden]{display:none}
+.ad-label{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:1px 8px;margin-bottom:12px}
+.ad-list{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;position:relative}
+.ad-banner img{display:block;max-width:100%;height:auto;border:0;margin:auto}
+.pcard{display:flex;gap:12px;align-items:center;text-align:left;max-width:340px;width:100%;padding:10px;border:1px solid var(--line);border-radius:14px;background:var(--bg)}
+.pcard img{width:96px;height:96px;object-fit:contain;flex:none;border-radius:8px;background:#fff}
+.pcard .pt{font-size:13px;line-height:1.5;color:var(--text);text-decoration:none;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.pcard .pt:hover{text-decoration:underline}
+.pcard .pp{font-size:12px;color:var(--muted);margin-top:6px;line-height:1.5}
+.pcard .pp b{font-size:15px;color:#e0483c}
+.px1{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+.ad-note{margin:12px 0 0;font-size:11px;color:var(--muted);line-height:1.6}
 footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px}
 @media(max-width:420px){.wrap{padding:0 12px 48px}.bar{margin:0 -12px 6px;padding:8px 12px}.year-head{margin:16px -12px 10px;padding:8px 12px}.list .thumb{width:92px}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}html{scroll-behavior:auto}}
@@ -201,7 +215,12 @@ footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px}
 
   <p class="count" id="count" aria-live="polite"></p>
   <main id="list"></main>
-  <footer>© Anime Log</footer>
+  <section class="ads" id="ads" aria-label="広告" hidden></section>
+  <footer>
+    <p>当サイトはアフィリエイト広告（A8.net等）を利用しています。広告のリンク先で商品の購入・申込みがあった場合、当サイトに報酬が支払われることがあります。</p>
+    <p>広告の表示・計測のため、広告配信事業者へ閲覧時の接続情報（IPアドレス・Cookie等）が送信される場合があります。</p>
+    <p>© Anime Log</p>
+  </footer>
 </div>
 
 <div class="scrim" id="scrim" hidden></div>
@@ -387,6 +406,70 @@ footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px}
   function barH(){document.documentElement.style.setProperty('--bar-h',$('bar').offsetHeight+'px');}
   if('ResizeObserver' in window)new ResizeObserver(barH).observe($('bar'));
   window.addEventListener('resize',barH);barH();
+
+  /* ---- 広告（data/ads.json）：許可ホストのhttps URLのみ表示。DOM生成のみ・innerHTML不使用 ---- */
+  var HOST_LINK=function(h){return h==='px.a8.net'||h==='rpx.a8.net';};
+  var HOST_A8IMG=function(h){return /^www\d{1,3}\.a8\.net$/.test(h);};
+  var HOST_RAKUTEN=function(h){return h==='thumbnail.image.rakuten.co.jp';};
+  var HOST_RBANNER=function(h){return h==='hbb.afl.rakuten.co.jp';};
+  function okUrl(u,hostOk,pathOk){
+    try{
+      u=String(u||'');if(u.length>2000)return '';
+      var x=new URL(u);
+      if(x.protocol!=='https:'||x.username||x.password||!hostOk(x.hostname))return '';
+      if(pathOk&&!pathOk(x.pathname))return '';
+      return x.href;
+    }catch(e){return '';}
+  }
+  function dim(v,max,def){v=Number(v);return(Number.isInteger(v)&&v>=1&&v<=max)?v:def;}
+  function short(v,n){return String(v==null?'':v).slice(0,n);}
+  function pixel(u){
+    var src=okUrl(u,HOST_A8IMG,function(p){return p==='/0.gif';});
+    if(!src)return null;
+    var i=document.createElement('img');i.className='px1';i.width=1;i.height=1;i.alt='';i.setAttribute('aria-hidden','true');
+    i.referrerPolicy='strict-origin';i.src=src;i.onerror=function(){i.remove();};return i;
+  }
+  function adLink(href){
+    var a=document.createElement('a');a.href=href;a.target='_blank';a.rel='sponsored nofollow noopener';a.referrerPolicy='strict-origin';return a;
+  }
+  function buildAd(ad){
+    if(!ad||typeof ad!=='object')return null;
+    var href=okUrl(ad.href,HOST_LINK);if(!href)return null;
+    var wrap=el('div'),img,a;
+    if(ad.type==='banner'){
+      var imgSrc=ad.image&&ad.image.src;
+      var bs=okUrl(imgSrc,HOST_A8IMG,function(p){return p==='/svt/bgt';})||okUrl(imgSrc,HOST_RBANNER,function(p){return p.indexOf('/hsb/')===0;});
+      if(!bs)return null;
+      wrap.className='ad-banner';a=adLink(href);
+      img=document.createElement('img');
+      var bw=dim(ad.image.width,1000,0),bh=dim(ad.image.height,400,0);
+      if(bw&&bh){img.width=bw;img.height=bh;img.style.aspectRatio=bw+' / '+bh;img.style.objectFit='contain';} /* 寸法が不明な広告は実寸で表示 */
+      img.alt=short(ad.alt||'広告',80);img.referrerPolicy='strict-origin';img.src=bs;a.appendChild(img);wrap.appendChild(a);
+    }else if(ad.type==='product'){
+      var ps=okUrl(ad.image&&ad.image.src,HOST_RAKUTEN);if(!ps)return null;
+      wrap.className='pcard';a=adLink(href);
+      img=document.createElement('img');img.width=dim(ad.image.width,400,128);img.height=dim(ad.image.height,400,128);
+      img.alt='';img.loading='lazy';img.referrerPolicy='strict-origin';img.src=ps;a.appendChild(img);
+      var info=el('div');var t=adLink(href);t.className='pt';t.textContent=short(ad.title,150);
+      var pp=el('div','pp');
+      if(ad.price){pp.append(document.createTextNode('価格：'));pp.appendChild(el('b',null,short(ad.price,30)));}
+      if(ad.priceAsOf){pp.appendChild(document.createElement('br'));pp.appendChild(el('span',null,'('+short(ad.priceAsOf,40)+')'));}
+      if(ad.reviews){pp.appendChild(document.createElement('br'));pp.appendChild(el('span',null,short(ad.reviews,40)));}
+      info.append(t,pp);wrap.append(a,info);
+    }else return null;
+    var px=pixel(ad.pixel);if(px)wrap.appendChild(px);
+    return wrap;
+  }
+  function renderAds(d){
+    var list=(d&&Array.isArray(d.ads)?d.ads:[]).slice(0,4),box=$('ads');
+    var nodes=list.map(buildAd).filter(Boolean);
+    if(!nodes.length){box.hidden=true;return;}
+    box.replaceChildren();box.appendChild(el('span','ad-label','PR'));
+    var l=el('div','ad-list');nodes.forEach(function(n){l.appendChild(n);});box.appendChild(l);
+    if(nodes.some(function(n){return n.classList.contains('pcard');}))box.appendChild(el('p','ad-note','価格・在庫などの情報は表示時点のものです。最新の情報はリンク先でご確認ください。'));
+    box.hidden=false;
+  }
+  fetch('data/ads.json',{cache:'no-cache'}).then(function(r){return r.ok?r.json():null;}).then(function(d){if(d)renderAds(d);}).catch(function(){});
 
   /* ---- データ読み込み ---- */
   function clean(x){
