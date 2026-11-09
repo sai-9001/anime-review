@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T06:44:44.743Z",
- "count": 407,
+ "generatedAt": "2026-11-09T06:47:44.108Z",
+ "count": 408,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3258,6 +3258,14 @@
    "review": "",
    "year": 2018,
    "order": 407
+  },
+  {
+   "title": "マクロス７",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1397-D9MLYHZhOnYO.png",
+   "rating": 4,
+   "review": "",
+   "year": 1994,
+   "order": 408
   }
  ]
 }
