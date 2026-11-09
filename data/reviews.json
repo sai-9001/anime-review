@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:24:47.575Z",
- "count": 430,
+ "generatedAt": "2026-11-09T11:25:15.300Z",
+ "count": 431,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3442,6 +3442,14 @@
    "review": "",
    "year": 2018,
    "order": 430
+  },
+  {
+   "title": "ゼロから始める魔法の書",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97682-YRhTwV979zSr.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2017,
+   "order": 431
   }
  ]
 }
