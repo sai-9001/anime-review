@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:16:59.787Z",
- "count": 421,
+ "generatedAt": "2026-11-09T11:17:59.500Z",
+ "count": 422,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3370,6 +3370,14 @@
    "review": "",
    "year": 1994,
    "order": 421
+  },
+  {
+   "title": "機動戦士ガンダム 逆襲のシャア",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87-SCCIlaJZjSvz.png",
+   "rating": 4,
+   "review": "",
+   "year": 1988,
+   "order": 422
   }
  ]
 }
