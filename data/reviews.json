@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T05:28:15.771Z",
- "count": 399,
+ "generatedAt": "2026-11-09T05:28:37.427Z",
+ "count": 400,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3194,6 +3194,14 @@
    "review": "",
    "year": 2023,
    "order": 399
+  },
+  {
+   "title": "名探偵コナン から紅の恋歌(ラブレター)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98222-PT0Ob1qkGDUW.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2017,
+   "order": 400
   }
  ]
 }
