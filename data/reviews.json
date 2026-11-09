@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T02:40:41.474Z",
- "count": 343,
+ "generatedAt": "2026-11-09T02:42:10.167Z",
+ "count": 344,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2746,6 +2746,14 @@
    "review": "",
    "year": 2005,
    "order": 343
+  },
+  {
+   "title": "心霊探偵 八雲",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7662-uW1oWpFeENgf.png",
+   "rating": 3,
+   "review": "",
+   "year": 2010,
+   "order": 344
   }
  ]
 }
