@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T13:13:42.065Z",
- "count": 457,
+ "generatedAt": "2026-11-11T13:14:05.578Z",
+ "count": 458,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3658,6 +3658,14 @@
    "review": "",
    "year": 1997,
    "order": 457
+  },
+  {
+   "title": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx32-5JYsv0wc122I.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 1997,
+   "order": 458
   }
  ]
 }
