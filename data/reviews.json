@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T13:02:29.151Z",
- "count": 450,
+ "generatedAt": "2026-11-11T13:04:42.913Z",
+ "count": 451,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3602,6 +3602,14 @@
    "review": "",
    "year": 2013,
    "order": 450
+  },
+  {
+   "title": "ガンダムビルドダイバーズ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101036-XhEmZnLx9JHE.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2018,
+   "order": 451
   }
  ]
 }
