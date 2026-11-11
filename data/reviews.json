@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T12:56:18.298Z",
- "count": 446,
+ "generatedAt": "2026-11-11T12:56:59.762Z",
+ "count": 447,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3570,6 +3570,14 @@
    "review": "",
    "year": 1998,
    "order": 446
+  },
+  {
+   "title": "名探偵コナン 沈黙の15分(クォーター)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9963-U5oy6aGrpTch.jpg",
+   "rating": 2,
+   "review": "",
+   "year": 2011,
+   "order": 447
   }
  ]
 }
