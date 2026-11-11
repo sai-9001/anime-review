@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T12:55:59.894Z",
- "count": 445,
+ "generatedAt": "2026-11-11T12:56:18.298Z",
+ "count": 446,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3562,6 +3562,14 @@
    "review": "",
    "year": 1997,
    "order": 445
+  },
+  {
+   "title": "名探偵コナン 14番目の標的(ターゲット)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b780-hxqAnXzg8DX4.png",
+   "rating": 3,
+   "review": "",
+   "year": 1998,
+   "order": 446
   }
  ]
 }
