@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T13:16:46.295Z",
- "count": 461,
+ "generatedAt": "2026-11-11T22:08:37.714Z",
+ "count": 462,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -2348,12 +2348,20 @@
    "order": 293
   },
   {
+   "title": "正反対な君と僕 第2期",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2026,
+   "order": 294
+  },
+  {
    "title": "響け！ユーフォニアム",
    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20912-SiiG4HPrjQlX.jpg",
    "rating": 4,
    "review": "",
    "year": 2015,
-   "order": 294
+   "order": 295
   },
   {
    "title": "フルメタル・パニック！",
@@ -2361,7 +2369,7 @@
    "rating": 4,
    "review": "",
    "year": 2002,
-   "order": 295
+   "order": 296
   },
   {
    "title": "フルメタル・パニック? ふもっふ",
@@ -2369,7 +2377,7 @@
    "rating": 4,
    "review": "",
    "year": 2003,
-   "order": 296
+   "order": 297
   },
   {
    "title": "逆転裁判 その『真実』、異議あり！",
@@ -2377,7 +2385,7 @@
    "rating": 3,
    "review": "",
    "year": 2016,
-   "order": 297
+   "order": 298
   },
   {
    "title": "まじっく快斗",
@@ -2385,7 +2393,7 @@
    "rating": 3,
    "review": "",
    "year": 2010,
-   "order": 298
+   "order": 299
   },
   {
    "title": "映画 名探偵コナン 業火の向日葵",
@@ -2393,7 +2401,7 @@
    "rating": 3,
    "review": "",
    "year": 2015,
-   "order": 299
+   "order": 300
   },
   {
    "title": "名探偵コナンVS怪盗キッド",
@@ -2401,7 +2409,7 @@
    "rating": 3,
    "review": "",
    "year": 2024,
-   "order": 300
+   "order": 301
   },
   {
    "title": "姫様“拷問”の時間です",
@@ -2409,7 +2417,7 @@
    "rating": 3,
    "review": "",
    "year": 2024,
-   "order": 301
+   "order": 302
   },
   {
    "title": "戦×恋",
@@ -2417,7 +2425,7 @@
    "rating": 3,
    "review": "",
    "year": 2019,
-   "order": 302
+   "order": 303
   },
   {
    "title": "うたわれるもの",
@@ -2425,7 +2433,7 @@
    "rating": 4,
    "review": "",
    "year": 2006,
-   "order": 303
+   "order": 304
   },
   {
    "title": "アウトブレイク・カンパニー",
@@ -2433,7 +2441,7 @@
    "rating": 3,
    "review": "",
    "year": 2013,
-   "order": 304
+   "order": 305
   },
   {
    "title": "うたわれるもの 偽りの仮面",
@@ -2441,7 +2449,7 @@
    "rating": 4,
    "review": "",
    "year": 2015,
-   "order": 305
+   "order": 306
   },
   {
    "title": "裏世界ピクニック",
@@ -2449,7 +2457,7 @@
    "rating": 3,
    "review": "",
    "year": 2021,
-   "order": 306
+   "order": 307
   },
   {
    "title": "桜蘭高校ホスト部",
@@ -2457,7 +2465,7 @@
    "rating": 4,
    "review": "",
    "year": 2006,
-   "order": 307
+   "order": 308
   },
   {
    "title": "魔女の宅急便",
@@ -2465,7 +2473,7 @@
    "rating": 4,
    "review": "",
    "year": 1989,
-   "order": 308
+   "order": 309
   },
   {
    "title": "おジャ魔女どれみ",
@@ -2473,7 +2481,7 @@
    "rating": 3,
    "review": "",
    "year": 1999,
-   "order": 309
+   "order": 310
   },
   {
    "title": "鉄のラインバレル",
@@ -2481,7 +2489,7 @@
    "rating": 3,
    "review": "",
    "year": 2008,
-   "order": 310
+   "order": 311
   },
   {
    "title": "織田信奈の野望",
@@ -2489,7 +2497,7 @@
    "rating": 3,
    "review": "",
    "year": 2012,
-   "order": 311
+   "order": 312
   },
   {
    "title": "俺物語!!",
@@ -2497,7 +2505,7 @@
    "rating": 4,
    "review": "",
    "year": 2015,
-   "order": 312
+   "order": 313
   },
   {
    "title": "ハチミツとクローバー",
@@ -2505,7 +2513,7 @@
    "rating": 4,
    "review": "",
    "year": 2005,
-   "order": 313
+   "order": 314
   },
   {
    "title": "ハチミツとクローバー II",
@@ -2513,7 +2521,7 @@
    "rating": 4,
    "review": "",
    "year": 2006,
-   "order": 314
+   "order": 315
   },
   {
    "title": "ガールフレンド(仮)",
@@ -2521,7 +2529,7 @@
    "rating": 2,
    "review": "",
    "year": 2014,
-   "order": 315
+   "order": 316
   },
   {
    "title": "鍵姫物語 永久アリス輪舞曲",
@@ -2529,7 +2537,7 @@
    "rating": 3,
    "review": "",
    "year": 2006,
-   "order": 316
+   "order": 317
   },
   {
    "title": "神様ドォルズ",
@@ -2537,7 +2545,7 @@
    "rating": 3,
    "review": "",
    "year": 2011,
-   "order": 317
+   "order": 318
   },
   {
    "title": "かみちゅ!",
@@ -2545,7 +2553,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 318
+   "order": 319
   },
   {
    "title": "神無月の巫女",
@@ -2553,7 +2561,7 @@
    "rating": 3,
    "review": "",
    "year": 2004,
-   "order": 319
+   "order": 320
   },
   {
    "title": "帰宅部活動記録",
@@ -2561,7 +2569,7 @@
    "rating": 3,
    "review": "",
    "year": 2013,
-   "order": 320
+   "order": 321
   },
   {
    "title": "男子高校生の日常",
@@ -2569,7 +2577,7 @@
    "rating": 4,
    "review": "",
    "year": 2012,
-   "order": 321
+   "order": 322
   },
   {
    "title": "ブラックキャット",
@@ -2577,7 +2585,7 @@
    "rating": 4,
    "review": "",
    "year": 2005,
-   "order": 322
+   "order": 323
   },
   {
    "title": "機動新世紀ガンダムX",
@@ -2585,7 +2593,7 @@
    "rating": 4,
    "review": "",
    "year": 1996,
-   "order": 323
+   "order": 324
   },
   {
    "title": "機動天使エンジェリックレイヤー",
@@ -2593,7 +2601,7 @@
    "rating": 3,
    "review": "",
    "year": 2001,
-   "order": 324
+   "order": 325
   },
   {
    "title": "つよきす Cool×Sweet",
@@ -2601,7 +2609,7 @@
    "rating": 2,
    "review": "",
    "year": 2006,
-   "order": 325
+   "order": 326
   },
   {
    "title": "境界線上のホライゾン",
@@ -2609,7 +2617,7 @@
    "rating": 2,
    "review": "",
    "year": 2011,
-   "order": 326
+   "order": 327
   },
   {
    "title": "銀色のオリンシス TOKITO",
@@ -2617,7 +2625,7 @@
    "rating": 1,
    "review": "",
    "year": 2006,
-   "order": 327
+   "order": 328
   },
   {
    "title": "さくら荘のペットな彼女",
@@ -2625,7 +2633,7 @@
    "rating": 2,
    "review": "",
    "year": 2012,
-   "order": 328
+   "order": 329
   },
   {
    "title": "ケータイ少女",
@@ -2633,7 +2641,7 @@
    "rating": 1,
    "review": "",
    "year": 2007,
-   "order": 329
+   "order": 330
   },
   {
    "title": "結婚するって、本当ですか",
@@ -2641,7 +2649,7 @@
    "rating": 4,
    "review": "",
    "year": 2024,
-   "order": 330
+   "order": 331
   },
   {
    "title": "ケメコデラックス！",
@@ -2649,7 +2657,7 @@
    "rating": 2,
    "review": "",
    "year": 2008,
-   "order": 331
+   "order": 332
   },
   {
    "title": "けものフレンズ",
@@ -2657,7 +2665,7 @@
    "rating": 1,
    "review": "",
    "year": 2017,
-   "order": 332
+   "order": 333
   },
   {
    "title": "こいこい7",
@@ -2665,7 +2673,7 @@
    "rating": 2,
    "review": "",
    "year": 2005,
-   "order": 333
+   "order": 334
   },
   {
    "title": "極上生徒会",
@@ -2673,7 +2681,7 @@
    "rating": 4,
    "review": "",
    "year": 2005,
-   "order": 334
+   "order": 335
   },
   {
    "title": "ココロコネクト",
@@ -2681,7 +2689,7 @@
    "rating": 2,
    "review": "",
    "year": 2012,
-   "order": 335
+   "order": 336
   },
   {
    "title": "ご愁傷さま二ノ宮くん",
@@ -2689,7 +2697,7 @@
    "rating": 2,
    "review": "",
    "year": 2007,
-   "order": 336
+   "order": 337
   },
   {
    "title": "この美術部には問題がある!",
@@ -2697,7 +2705,7 @@
    "rating": 2,
    "review": "",
    "year": 2016,
-   "order": 337
+   "order": 338
   },
   {
    "title": "月曜日のたわわ",
@@ -2705,7 +2713,7 @@
    "rating": 3,
    "review": "",
    "year": 2016,
-   "order": 338
+   "order": 339
   },
   {
    "title": "金色のガッシュベル!!",
@@ -2713,7 +2721,7 @@
    "rating": 4,
    "review": "",
    "year": 2003,
-   "order": 339
+   "order": 340
   },
   {
    "title": "東のエデン",
@@ -2721,7 +2729,7 @@
    "rating": 4,
    "review": "",
    "year": 2009,
-   "order": 340
+   "order": 341
   },
   {
    "title": "東のエデン 劇場版I The King of Eden",
@@ -2729,7 +2737,7 @@
    "rating": 4,
    "review": "",
    "year": 2009,
-   "order": 341
+   "order": 342
   },
   {
    "title": "東のエデン 劇場版II Paradise Lost",
@@ -2737,7 +2745,7 @@
    "rating": 4,
    "review": "",
    "year": 2010,
-   "order": 342
+   "order": 343
   },
   {
    "title": "地獄少女",
@@ -2745,7 +2753,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 343
+   "order": 344
   },
   {
    "title": "心霊探偵 八雲",
@@ -2753,7 +2761,7 @@
    "rating": 3,
    "review": "",
    "year": 2010,
-   "order": 344
+   "order": 345
   },
   {
    "title": "ストラトス・フォー",
@@ -2761,7 +2769,7 @@
    "rating": 3,
    "review": "",
    "year": 2003,
-   "order": 345
+   "order": 346
   },
   {
    "title": "ストラトス・フォー アドヴァンス",
@@ -2769,7 +2777,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 346
+   "order": 347
   },
   {
    "title": "砂ぼうず",
@@ -2777,7 +2785,7 @@
    "rating": 3,
    "review": "",
    "year": 2004,
-   "order": 347
+   "order": 348
   },
   {
    "title": "すもももももも〜地上最強のヨメ〜",
@@ -2785,7 +2793,7 @@
    "rating": 3,
    "review": "",
    "year": 2006,
-   "order": 348
+   "order": 349
   },
   {
    "title": "初恋限定。",
@@ -2793,7 +2801,7 @@
    "rating": 2,
    "review": "",
    "year": 2009,
-   "order": 349
+   "order": 350
   },
   {
    "title": "奏光のストレイン",
@@ -2801,7 +2809,7 @@
    "rating": 3,
    "review": "",
    "year": 2006,
-   "order": 350
+   "order": 351
   },
   {
    "title": "ダーウィンズゲーム",
@@ -2809,7 +2817,7 @@
    "rating": 3,
    "review": "",
    "year": 2020,
-   "order": 351
+   "order": 352
   },
   {
    "title": "タクティカルロア",
@@ -2817,7 +2825,7 @@
    "rating": 3,
    "review": "",
    "year": 2006,
-   "order": 352
+   "order": 353
   },
   {
    "title": "機動戦士ガンダム0083 STARDUST MEMORY",
@@ -2825,7 +2833,7 @@
    "rating": 2,
    "review": "",
    "year": 1991,
-   "order": 353
+   "order": 354
   },
   {
    "title": "けんぷファー",
@@ -2833,7 +2841,7 @@
    "rating": 4,
    "review": "",
    "year": 2009,
-   "order": 354
+   "order": 355
   },
   {
    "title": "デジモンアドベンチャー０２",
@@ -2841,7 +2849,7 @@
    "rating": 4,
    "review": "",
    "year": 2000,
-   "order": 355
+   "order": 356
   },
   {
    "title": "ドラゴンボールGT",
@@ -2849,7 +2857,7 @@
    "rating": 4,
    "review": "",
    "year": 1996,
-   "order": 356
+   "order": 357
   },
   {
    "title": "天上天下",
@@ -2857,7 +2865,7 @@
    "rating": 2,
    "review": "",
    "year": 2004,
-   "order": 357
+   "order": 358
   },
   {
    "title": "桃華月憚",
@@ -2865,7 +2873,7 @@
    "rating": 2,
    "review": "",
    "year": 2007,
-   "order": 358
+   "order": 359
   },
   {
    "title": "ナースウィッチ小麦ちゃんマジカルて",
@@ -2873,7 +2881,7 @@
    "rating": 3,
    "review": "",
    "year": 2002,
-   "order": 359
+   "order": 360
   },
   {
    "title": "ナイトウィザード The ANIMATION",
@@ -2881,7 +2889,7 @@
    "rating": 2,
    "review": "",
    "year": 2007,
-   "order": 360
+   "order": 361
   },
   {
    "title": "謎の彼女X",
@@ -2889,7 +2897,7 @@
    "rating": 2,
    "review": "",
    "year": 2012,
-   "order": 361
+   "order": 362
   },
   {
    "title": "ななついろ★ドロップス",
@@ -2897,7 +2905,7 @@
    "rating": 1,
    "review": "",
    "year": 2007,
-   "order": 362
+   "order": 363
   },
   {
    "title": "のうりん",
@@ -2905,7 +2913,7 @@
    "rating": 3,
    "review": "",
    "year": 2014,
-   "order": 363
+   "order": 364
   },
   {
    "title": "鬼灯の冷徹",
@@ -2913,7 +2921,7 @@
    "rating": 2,
    "review": "",
    "year": 2014,
-   "order": 364
+   "order": 365
   },
   {
    "title": "ひげを剃る。そして女子高生を拾う。",
@@ -2921,7 +2929,7 @@
    "rating": 1,
    "review": "",
    "year": 2021,
-   "order": 365
+   "order": 366
   },
   {
    "title": "双恋",
@@ -2929,7 +2937,7 @@
    "rating": 2,
    "review": "",
    "year": 2004,
-   "order": 366
+   "order": 367
   },
   {
    "title": "フタコイ オルタナティブ",
@@ -2937,7 +2945,7 @@
    "rating": 4,
    "review": "",
    "year": 2005,
-   "order": 367
+   "order": 368
   },
   {
    "title": "ヘタリア Axis Powers",
@@ -2945,7 +2953,7 @@
    "rating": 3,
    "review": "",
    "year": 2009,
-   "order": 368
+   "order": 369
   },
   {
    "title": "まおゆう魔王勇者",
@@ -2953,7 +2961,7 @@
    "rating": 3,
    "review": "",
    "year": 2013,
-   "order": 369
+   "order": 370
   },
   {
    "title": "まじかるカナン",
@@ -2961,7 +2969,7 @@
    "rating": 2,
    "review": "",
    "year": 2005,
-   "order": 370
+   "order": 371
   },
   {
    "title": "マブラヴ オルタネイティヴ トータル・イクリプス",
@@ -2969,7 +2977,7 @@
    "rating": 2,
    "review": "",
    "year": 2012,
-   "order": 371
+   "order": 372
   },
   {
    "title": "ガンパレード・オーケストラ",
@@ -2977,7 +2985,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 372
+   "order": 373
   },
   {
    "title": "まもって守護月天！",
@@ -2985,7 +2993,7 @@
    "rating": 3,
    "review": "",
    "year": 1998,
-   "order": 373
+   "order": 374
   },
   {
    "title": "伝心 まもって守護月天！",
@@ -2993,7 +3001,7 @@
    "rating": 4,
    "review": "",
    "year": 2000,
-   "order": 374
+   "order": 375
   },
   {
    "title": "まりあ†ほりっく",
@@ -3001,7 +3009,7 @@
    "rating": 3,
    "review": "",
    "year": 2009,
-   "order": 375
+   "order": 376
   },
   {
    "title": "美鳥の日々",
@@ -3009,7 +3017,7 @@
    "rating": 4,
    "review": "",
    "year": 2004,
-   "order": 376
+   "order": 377
   },
   {
    "title": "夜明け前より瑠璃色な -Crescent Love-",
@@ -3017,7 +3025,7 @@
    "rating": 2,
    "review": "",
    "year": 2006,
-   "order": 377
+   "order": 378
   },
   {
    "title": "ようこそ実力至上主義の教室へ",
@@ -3025,7 +3033,7 @@
    "rating": 3,
    "review": "",
    "year": 2017,
-   "order": 378
+   "order": 379
   },
   {
    "title": "吉永さん家のガーゴイル",
@@ -3033,7 +3041,7 @@
    "rating": 4,
    "review": "",
    "year": 2006,
-   "order": 379
+   "order": 380
   },
   {
    "title": "陸上防衛隊まおちゃん",
@@ -3041,7 +3049,7 @@
    "rating": 2,
    "review": "",
    "year": 2002,
-   "order": 380
+   "order": 381
   },
   {
    "title": "りぜるまいん",
@@ -3049,7 +3057,7 @@
    "rating": 3,
    "review": "",
    "year": 2002,
-   "order": 381
+   "order": 382
   },
   {
    "title": "輪廻のラグランジェ",
@@ -3057,7 +3065,7 @@
    "rating": 3,
    "review": "",
    "year": 2012,
-   "order": 382
+   "order": 383
   },
   {
    "title": "B型H系",
@@ -3065,7 +3073,7 @@
    "rating": 3,
    "review": "",
    "year": 2010,
-   "order": 383
+   "order": 384
   },
   {
    "title": "シーキューブ",
@@ -3073,7 +3081,7 @@
    "rating": 2,
    "review": "",
    "year": 2011,
-   "order": 384
+   "order": 385
   },
   {
    "title": "ef - a tale of memories.",
@@ -3081,7 +3089,7 @@
    "rating": 3,
    "review": "",
    "year": 2007,
-   "order": 385
+   "order": 386
   },
   {
    "title": "ef - a tale of melodies.",
@@ -3089,7 +3097,7 @@
    "rating": 3,
    "review": "",
    "year": 2008,
-   "order": 386
+   "order": 387
   },
   {
    "title": "ギフト～ eternal rainbow",
@@ -3097,7 +3105,7 @@
    "rating": 2,
    "review": "",
    "year": 2006,
-   "order": 387
+   "order": 388
   },
   {
    "title": "IGPX Immortal Grand Prix",
@@ -3105,7 +3113,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 388
+   "order": 389
   },
   {
    "title": "IGPX Immortal Grand Prix 2",
@@ -3113,7 +3121,7 @@
    "rating": 4,
    "review": "",
    "year": 2006,
-   "order": 389
+   "order": 390
   },
   {
    "title": "IZUMO -猛き剣の閃記-",
@@ -3121,7 +3129,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 390
+   "order": 391
   },
   {
    "title": "魔探偵ロキ RAGNAROK",
@@ -3129,7 +3137,7 @@
    "rating": 3,
    "review": "",
    "year": 2003,
-   "order": 391
+   "order": 392
   },
   {
    "title": "ToHeart",
@@ -3137,7 +3145,7 @@
    "rating": 3,
    "review": "",
    "year": 1999,
-   "order": 392
+   "order": 393
   },
   {
    "title": "こみっくパーティー",
@@ -3145,7 +3153,7 @@
    "rating": 4,
    "review": "",
    "year": 2001,
-   "order": 393
+   "order": 394
   },
   {
    "title": "ToHeart2",
@@ -3153,7 +3161,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 394
+   "order": 395
   },
   {
    "title": "こみっくパーティー Revolution",
@@ -3161,7 +3169,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 395
+   "order": 396
   },
   {
    "title": "ラブひな",
@@ -3169,7 +3177,7 @@
    "rating": 3,
    "review": "",
    "year": 2000,
-   "order": 396
+   "order": 397
   },
   {
    "title": "ラブ ひな Again",
@@ -3177,7 +3185,7 @@
    "rating": 3,
    "review": "",
    "year": 2002,
-   "order": 397
+   "order": 398
   },
   {
    "title": "X−エックス− (TV)",
@@ -3185,7 +3193,7 @@
    "rating": 4,
    "review": "",
    "year": 2001,
-   "order": 398
+   "order": 399
   },
   {
    "title": "名探偵コナン 黒鉄の魚影(サブマリン)",
@@ -3193,7 +3201,7 @@
    "rating": 4,
    "review": "",
    "year": 2023,
-   "order": 399
+   "order": 400
   },
   {
    "title": "名探偵コナン から紅の恋歌(ラブレター)",
@@ -3201,7 +3209,7 @@
    "rating": 3,
    "review": "",
    "year": 2017,
-   "order": 400
+   "order": 401
   },
   {
    "title": "ドラゴンボール超",
@@ -3209,7 +3217,7 @@
    "rating": 3,
    "review": "",
    "year": 2015,
-   "order": 401
+   "order": 402
   },
   {
    "title": "超重神グラヴィオン",
@@ -3217,7 +3225,7 @@
    "rating": 3,
    "review": "",
    "year": 2002,
-   "order": 402
+   "order": 403
   },
   {
    "title": "超重神グラヴィオンツヴァイ",
@@ -3225,7 +3233,7 @@
    "rating": 3,
    "review": "",
    "year": 2004,
-   "order": 403
+   "order": 404
   },
   {
    "title": "中二病でも恋がしたい!",
@@ -3233,7 +3241,7 @@
    "rating": 4,
    "review": "",
    "year": 2012,
-   "order": 404
+   "order": 405
   },
   {
    "title": "中二病でも恋がしたい！戀",
@@ -3241,7 +3249,7 @@
    "rating": 3,
    "review": "",
    "year": 2014,
-   "order": 405
+   "order": 406
   },
   {
    "title": "小鳥遊六花・改 ~劇場版 中二病でも恋がしたい!~",
@@ -3249,7 +3257,7 @@
    "rating": 3,
    "review": "",
    "year": 2013,
-   "order": 406
+   "order": 407
   },
   {
    "title": "少女☆歌劇 レヴュー・スタァライト",
@@ -3257,7 +3265,7 @@
    "rating": 3,
    "review": "",
    "year": 2018,
-   "order": 407
+   "order": 408
   },
   {
    "title": "マクロス７",
@@ -3265,7 +3273,7 @@
    "rating": 4,
    "review": "",
    "year": 1994,
-   "order": 408
+   "order": 409
   },
   {
    "title": "マクロス7 -銀河がオレを呼んでいる!-",
@@ -3273,7 +3281,7 @@
    "rating": 4,
    "review": "",
    "year": 1995,
-   "order": 409
+   "order": 410
   },
   {
    "title": "マクロスF",
@@ -3281,7 +3289,7 @@
    "rating": 3,
    "review": "",
    "year": 2008,
-   "order": 410
+   "order": 411
   },
   {
    "title": "劇場版 マクロスF ~サヨナラノツバサ~",
@@ -3289,7 +3297,7 @@
    "rating": 3,
    "review": "",
    "year": 2011,
-   "order": 411
+   "order": 412
   },
   {
    "title": "劇場版 マクロスF 虚空歌姫 ~イツワリノウタヒメ~",
@@ -3297,7 +3305,7 @@
    "rating": 3,
    "review": "",
    "year": 2009,
-   "order": 412
+   "order": 413
   },
   {
    "title": "マクロスプラス",
@@ -3305,7 +3313,7 @@
    "rating": 3,
    "review": "",
    "year": 1994,
-   "order": 413
+   "order": 414
   },
   {
    "title": "わんだふるぷりきゅあ！ざ・むーびー！ドキドキ♡ゲームの世界で大冒険！",
@@ -3313,7 +3321,7 @@
    "rating": 2,
    "review": "",
    "year": 2024,
-   "order": 414
+   "order": 415
   },
   {
    "title": "キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
@@ -3321,7 +3329,7 @@
    "rating": 4,
    "review": "",
    "year": 2025,
-   "order": 415
+   "order": 416
   },
   {
    "title": "クレヨンしんちゃん外伝 エイリアン vs. しんのすけ",
@@ -3329,7 +3337,7 @@
    "rating": 3,
    "review": "",
    "year": 2016,
-   "order": 416
+   "order": 417
   },
   {
    "title": "クレヨンしんちゃん外伝 家族連れ狼",
@@ -3337,7 +3345,7 @@
    "rating": 2,
    "review": "",
    "year": 2017,
-   "order": 417
+   "order": 418
   },
   {
    "title": "大魔法峠",
@@ -3345,7 +3353,7 @@
    "rating": 3,
    "review": "",
    "year": 2006,
-   "order": 418
+   "order": 419
   },
   {
    "title": "名探偵コナン 11人目のストライカー",
@@ -3353,7 +3361,7 @@
    "rating": 2,
    "review": "",
    "year": 2012,
-   "order": 419
+   "order": 420
   },
   {
    "title": "転生したらスライムだった件 転スラ日記",
@@ -3361,7 +3369,7 @@
    "rating": 2,
    "review": "",
    "year": 2021,
-   "order": 420
+   "order": 421
   },
   {
    "title": "ストリートファイターII",
@@ -3369,7 +3377,7 @@
    "rating": 2,
    "review": "",
    "year": 1994,
-   "order": 421
+   "order": 422
   },
   {
    "title": "機動戦士ガンダム 逆襲のシャア",
@@ -3377,7 +3385,7 @@
    "rating": 4,
    "review": "",
    "year": 1988,
-   "order": 422
+   "order": 423
   },
   {
    "title": "ポケットモンスター ミュウツーの逆襲",
@@ -3385,7 +3393,7 @@
    "rating": 3,
    "review": "",
    "year": 1998,
-   "order": 423
+   "order": 424
   },
   {
    "title": "ガンダムビルドファイターズ GMの逆襲",
@@ -3393,7 +3401,7 @@
    "rating": 3,
    "review": "",
    "year": 2017,
-   "order": 424
+   "order": 425
   },
   {
    "title": "デジモンアドベンチャー02 ディアボロモンの逆襲",
@@ -3401,7 +3409,7 @@
    "rating": 3,
    "review": "",
    "year": 2001,
-   "order": 425
+   "order": 426
   },
   {
    "title": "劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION",
@@ -3409,7 +3417,7 @@
    "rating": 2,
    "review": "",
    "year": 2019,
-   "order": 426
+   "order": 427
   },
   {
    "title": "名探偵コナン 水平線上の陰謀(ストラテジー)",
@@ -3417,7 +3425,7 @@
    "rating": 3,
    "review": "",
    "year": 2005,
-   "order": 427
+   "order": 428
   },
   {
    "title": "獣装機攻ダンクーガノヴァ",
@@ -3425,7 +3433,7 @@
    "rating": 3,
    "review": "",
    "year": 2007,
-   "order": 428
+   "order": 429
   },
   {
    "title": "名探偵コナン ハロウィンの花嫁",
@@ -3433,7 +3441,7 @@
    "rating": 4,
    "review": "",
    "year": 2022,
-   "order": 429
+   "order": 430
   },
   {
    "title": "名探偵コナン ゼロの執行人",
@@ -3441,7 +3449,7 @@
    "rating": 3,
    "review": "",
    "year": 2018,
-   "order": 430
+   "order": 431
   },
   {
    "title": "ゼロから始める魔法の書",
@@ -3449,7 +3457,7 @@
    "rating": 2,
    "review": "",
    "year": 2017,
-   "order": 431
+   "order": 432
   },
   {
    "title": "六花の勇者",
@@ -3457,7 +3465,7 @@
    "rating": 2,
    "review": "",
    "year": 2015,
-   "order": 432
+   "order": 433
   },
   {
    "title": "機動戦士ガンダムUC",
@@ -3465,7 +3473,7 @@
    "rating": 3,
    "review": "",
    "year": 2010,
-   "order": 433
+   "order": 434
   },
   {
    "title": "機動戦士ガンダム00",
@@ -3473,7 +3481,7 @@
    "rating": 4,
    "review": "",
    "year": 2007,
-   "order": 434
+   "order": 435
   },
   {
    "title": "機動戦士ガンダム00 セカンドシーズン",
@@ -3481,7 +3489,7 @@
    "rating": 3,
    "review": "",
    "year": 2008,
-   "order": 435
+   "order": 436
   },
   {
    "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
@@ -3489,7 +3497,7 @@
    "rating": 3,
    "review": "",
    "year": 2023,
-   "order": 436
+   "order": 437
   },
   {
    "title": "スーパーロボット大戦OG -ディバイン・ウォーズ-",
@@ -3497,7 +3505,7 @@
    "rating": 2,
    "review": "",
    "year": 2006,
-   "order": 437
+   "order": 438
   },
   {
    "title": "真ゲッターロボ対ネオゲッターロボ",
@@ -3505,7 +3513,7 @@
    "rating": 2,
    "review": "",
    "year": 2000,
-   "order": 438
+   "order": 439
   },
   {
    "title": "真(チェンジ!!)ゲッターロボ~世界最後の日",
@@ -3513,7 +3521,7 @@
    "rating": 4,
    "review": "",
    "year": 1998,
-   "order": 439
+   "order": 440
   },
   {
    "title": "トップをねらえ! GunBuster",
@@ -3521,7 +3529,7 @@
    "rating": 3,
    "review": "",
    "year": 1988,
-   "order": 440
+   "order": 441
   },
   {
    "title": "トップをねらえ2！DIEBUSTER",
@@ -3529,7 +3537,7 @@
    "rating": 2,
    "review": "",
    "year": 2004,
-   "order": 441
+   "order": 442
   },
   {
    "title": "名探偵コナン 100万ドルの五稜星",
@@ -3537,7 +3545,7 @@
    "rating": 3,
    "review": "",
    "year": 2024,
-   "order": 442
+   "order": 443
   },
   {
    "title": "名探偵コナン 絶海の探偵(プライベート・アイ)",
@@ -3545,7 +3553,7 @@
    "rating": 3,
    "review": "",
    "year": 2013,
-   "order": 443
+   "order": 444
   },
   {
    "title": "ロマンティック・キラー",
@@ -3553,7 +3561,7 @@
    "rating": 3,
    "review": "",
    "year": 2022,
-   "order": 444
+   "order": 445
   },
   {
    "title": "名探偵コナン 時計じかけの摩天楼",
@@ -3561,7 +3569,7 @@
    "rating": 3,
    "review": "",
    "year": 1997,
-   "order": 445
+   "order": 446
   },
   {
    "title": "名探偵コナン 14番目の標的(ターゲット)",
@@ -3569,7 +3577,7 @@
    "rating": 3,
    "review": "",
    "year": 1998,
-   "order": 446
+   "order": 447
   },
   {
    "title": "名探偵コナン 沈黙の15分(クォーター)",
@@ -3577,7 +3585,7 @@
    "rating": 2,
    "review": "",
    "year": 2011,
-   "order": 447
+   "order": 448
   },
   {
    "title": "竜とそばかすの姫",
@@ -3585,7 +3593,7 @@
    "rating": 1,
    "review": "",
    "year": 2021,
-   "order": 448
+   "order": 449
   },
   {
    "title": "となりのトトロ",
@@ -3593,7 +3601,7 @@
    "rating": 3,
    "review": "",
    "year": 1988,
-   "order": 449
+   "order": 450
   },
   {
    "title": "ガンダムビルドファイターズ",
@@ -3601,7 +3609,7 @@
    "rating": 4,
    "review": "",
    "year": 2013,
-   "order": 450
+   "order": 451
   },
   {
    "title": "ガンダムビルドダイバーズ",
@@ -3609,7 +3617,7 @@
    "rating": 3,
    "review": "",
    "year": 2018,
-   "order": 451
+   "order": 452
   },
   {
    "title": "ガンダムビルドダイバーズRe:RISE",
@@ -3617,7 +3625,7 @@
    "rating": 3,
    "review": "",
    "year": 2019,
-   "order": 452
+   "order": 453
   },
   {
    "title": "ギャラクシーエンジェル",
@@ -3625,7 +3633,7 @@
    "rating": 3,
    "review": "",
    "year": 2001,
-   "order": 453
+   "order": 454
   },
   {
    "title": "デート・ア・ライブ",
@@ -3633,7 +3641,7 @@
    "rating": 3,
    "review": "",
    "year": 2013,
-   "order": 454
+   "order": 455
   },
   {
    "title": "城下町のダンデライオン",
@@ -3641,7 +3649,7 @@
    "rating": 4,
    "review": "",
    "year": 2015,
-   "order": 455
+   "order": 456
   },
   {
    "title": "新世紀エヴァンゲリオン",
@@ -3649,7 +3657,7 @@
    "rating": 3,
    "review": "",
    "year": 1995,
-   "order": 456
+   "order": 457
   },
   {
    "title": "新世紀エヴァンゲリオン劇場版 シト新生",
@@ -3657,7 +3665,7 @@
    "rating": 2,
    "review": "",
    "year": 1997,
-   "order": 457
+   "order": 458
   },
   {
    "title": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に",
@@ -3665,7 +3673,7 @@
    "rating": 2,
    "review": "",
    "year": 1997,
-   "order": 458
+   "order": 459
   },
   {
    "title": "アリスＳＯＳ",
@@ -3673,7 +3681,7 @@
    "rating": 4,
    "review": "",
    "year": 1998,
-   "order": 459
+   "order": 460
   },
   {
    "title": "ＹＡＴ　安心！宇宙旅行",
@@ -3681,7 +3689,7 @@
    "rating": 4,
    "review": "",
    "year": 1996,
-   "order": 460
+   "order": 461
   },
   {
    "title": "カスミン (第1シリーズ)",
@@ -3689,7 +3697,7 @@
    "rating": 3,
    "review": "",
    "year": 2001,
-   "order": 461
+   "order": 462
   }
  ]
 }
