@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T13:15:45.630Z",
- "count": 460,
+ "generatedAt": "2026-11-11T13:16:46.295Z",
+ "count": 461,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3682,6 +3682,14 @@
    "review": "",
    "year": 1996,
    "order": 460
+  },
+  {
+   "title": "カスミン (第1シリーズ)",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20858-aaKPfXFbw9Dp.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2001,
+   "order": 461
   }
  ]
 }
