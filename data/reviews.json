@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T12:58:05.675Z",
- "count": 449,
+ "generatedAt": "2026-11-11T13:02:29.151Z",
+ "count": 450,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3594,6 +3594,14 @@
    "review": "",
    "year": 1988,
    "order": 449
+  },
+  {
+   "title": "ガンダムビルドファイターズ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19319-0YuU672PSgix.jpg",
+   "rating": 4,
+   "review": "",
+   "year": 2013,
+   "order": 450
   }
  ]
 }
