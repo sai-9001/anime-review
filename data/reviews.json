@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T13:14:05.578Z",
- "count": 458,
+ "generatedAt": "2026-11-11T13:15:18.569Z",
+ "count": 459,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -3666,6 +3666,14 @@
    "review": "",
    "year": 1997,
    "order": 458
+  },
+  {
+   "title": "アリスＳＯＳ",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8812-fWigNbjG16rM.png",
+   "rating": 4,
+   "review": "",
+   "year": 1998,
+   "order": 459
   }
  ]
 }
