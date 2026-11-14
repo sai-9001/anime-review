@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-14T05:28:52.522Z",
- "count": 467,
+ "generatedAt": "2026-11-14T05:32:06.492Z",
+ "count": 468,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -4205,6 +4205,15 @@
    "year": 2020,
    "recent": false,
    "order": 467
+  },
+  {
+   "title": "陰の実力者になりたくて！",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-YMdcKHytpWNH.jpg",
+   "rating": 3,
+   "review": "",
+   "year": 2022,
+   "recent": true,
+   "order": 468
   }
  ]
 }
