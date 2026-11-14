@@ -102,6 +102,7 @@ select{height:44px;border:1px solid var(--line);background:var(--panel);border-r
 .thumb img.ok{opacity:1}
 .ph{position:absolute;inset:0;display:grid;place-items:center;color:var(--muted);font-size:12px;text-align:center;padding:8px}
 .badge{position:absolute;top:8px;left:8px;background:rgba(11,18,32,.78);color:var(--gold);border-radius:99px;padding:2px 9px;font-size:12px;font-weight:700;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.badge-recent{position:absolute;top:8px;right:8px;background:var(--accent);color:var(--accent-ink);border-radius:99px;padding:2px 9px;font-size:11px;font-weight:700;box-shadow:0 2px 8px rgba(0,0,0,.25)}
 .body{padding:10px 12px 12px;min-width:0}
 .title{font-weight:750;line-height:1.4;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .stars{color:var(--gold);letter-spacing:1px;font-size:15px;margin-top:3px}
@@ -277,6 +278,7 @@ footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px}
       img.src=src;t.append(ph,img);
     }else t.appendChild(ph);
     if(withBadge&&a.rating>=1)t.appendChild(el('span','badge','★'+a.rating));
+    if(a.recent)t.appendChild(el('span','badge-recent','直近1年'));
     return t;
   }
   function starsEl(a){
@@ -361,7 +363,7 @@ footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px}
     if(src){var img=document.createElement('img');img.alt='';img.referrerPolicy='no-referrer';img.onerror=function(){img.remove();di.appendChild(el('div','ph','No Image'));};img.src=src;di.appendChild(img);}
     else di.appendChild(el('div','ph','No Image'));
     $('dTitle').textContent=a.title;
-    $('dMeta').textContent=a.year?(a.year+'年放送'):'放送年不明';
+    $('dMeta').textContent=(a.year?(a.year+'年放送'):'放送年不明')+(a.recent?' ・ 直近1年に視聴':'');
     var ds=$('dStars');ds.textContent=a.rating>=1?stars(a.rating):'未評価';
     ds.setAttribute('aria-label',a.rating>=1?('評価 '+a.rating+' / 5'):'未評価');
     var dr=$('dReview');dr.textContent=a.review||'感想はまだありません。';dr.className=a.review?'dreview':'dreview dnone';
@@ -476,7 +478,7 @@ footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px}
     var rating=Number(x&&x.rating),yr=Number(x&&x.year);
     return {title:String((x&&x.title)||''),image:String((x&&x.image)||''),
       rating:(Number.isInteger(rating)&&rating>=1&&rating<=5)?rating:0,
-      review:String((x&&x.review)||''),order:Number(x&&x.order)||0,
+      review:String((x&&x.review)||''),order:Number(x&&x.order)||0,recent:(x&&x.recent)===true,
       year:(Number.isInteger(yr)&&yr>=1900&&yr<=2100)?yr:0};
   }
   syncControls();skeleton();
