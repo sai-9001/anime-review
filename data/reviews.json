@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-27T15:06:48.477Z",
- "count": 470,
+ "generatedAt": "2026-11-27T15:07:21.566Z",
+ "count": 471,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -4232,6 +4232,15 @@
    "year": 2014,
    "recent": true,
    "order": 470
+  },
+  {
+   "title": "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21874-X0MzTN5jehbN.png",
+   "rating": 4,
+   "review": "",
+   "year": 2017,
+   "recent": true,
+   "order": 471
   }
  ]
 }
