@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-11-24T09:41:32.425Z",
- "count": 469,
+ "generatedAt": "2026-11-27T15:06:48.477Z",
+ "count": 470,
  "items": [
   {
    "title": "葬送のフリーレン",
@@ -4223,6 +4223,15 @@
    "year": 2022,
    "recent": true,
    "order": 469
+  },
+  {
+   "title": "トリニティセブン",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20631-LdCiy3goitcT.png",
+   "rating": 4,
+   "review": "",
+   "year": 2014,
+   "recent": true,
+   "order": 470
   }
  ]
 }
